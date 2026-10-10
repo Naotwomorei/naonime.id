@@ -1,0 +1,1672 @@
+2026-10-07 20:53:06,998 - api - INFO - Initialized Main API handler
+2026-10-07 20:53:07,001 - __main__ - INFO - Starting Anichin API server
+2026-10-07 20:53:07,232 - werkzeug - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2026-10-07 20:53:07,233 - werkzeug - INFO - Press CTRL+C to quit
+2026-10-07 20:53:07,234 - werkzeug - INFO -  * Restarting with stat
+2026-10-07 20:53:07,663 - api - INFO - Initialized Main API handler
+2026-10-07 20:53:07,667 - __main__ - INFO - Starting Anichin API server
+2026-10-07 20:53:07,686 - werkzeug - WARNING -  * Debugger is active!
+2026-10-07 20:53:07,688 - werkzeug - INFO -  * Debugger PIN: 505-469-834
+2026-10-07 21:04:37,456 - api - INFO - Initialized Main API handler
+2026-10-07 21:04:37,460 - __main__ - INFO - Starting Anichin API server
+2026-10-07 21:04:37,500 - werkzeug - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2026-10-07 21:04:37,500 - werkzeug - INFO - Press CTRL+C to quit
+2026-10-07 21:04:37,502 - werkzeug - INFO -  * Restarting with stat
+2026-10-07 21:04:37,897 - api - INFO - Initialized Main API handler
+2026-10-07 21:04:37,900 - __main__ - INFO - Starting Anichin API server
+2026-10-07 21:04:37,915 - werkzeug - WARNING -  * Debugger is active!
+2026-10-07 21:04:37,921 - werkzeug - INFO -  * Debugger PIN: 505-469-834
+2026-10-07 21:05:52,090 - __main__ - INFO - Info request for slug: home
+2026-10-07 21:05:52,090 - api - INFO - Getting info for slug: home
+2026-10-07 21:05:52,092 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.club
+2026-10-07 21:05:52,093 - api.utils.info - INFO - Initialized Info scraper for slug: home
+2026-10-07 21:05:52,093 - api.utils.info - INFO - Starting to scrape data for slug: home
+2026-10-07 21:05:53,258 - api.utils.parsing - ERROR - Failed to fetch HTML from home: 404 Client Error: Not Found for url: https://anichin.care/home
+2026-10-07 21:05:53,259 - api.utils.parsing - WARNING - No HTML content to parse for: home
+2026-10-07 21:05:53,261 - api.utils.info - ERROR - Failed to get initial data
+2026-10-07 21:05:53,269 - __main__ - WARNING - Info not found for slug: home
+2026-10-07 21:05:53,277 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:05:53] "GET /home HTTP/1.1" 404 -
+2026-10-07 21:05:56,059 - __main__ - INFO - Info request for slug: search
+2026-10-07 21:05:56,060 - api - INFO - Getting info for slug: search
+2026-10-07 21:05:56,061 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.club
+2026-10-07 21:05:56,061 - api.utils.info - INFO - Initialized Info scraper for slug: search
+2026-10-07 21:05:56,062 - api.utils.info - INFO - Starting to scrape data for slug: search
+2026-10-07 21:05:57,464 - api.utils.parsing - ERROR - Failed to fetch HTML from search: 404 Client Error: Not Found for url: https://anichin.care/search
+2026-10-07 21:05:57,465 - api.utils.parsing - WARNING - No HTML content to parse for: search
+2026-10-07 21:05:57,466 - api.utils.info - ERROR - Failed to get initial data
+2026-10-07 21:05:57,471 - __main__ - WARNING - Info not found for slug: search
+2026-10-07 21:05:57,473 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:05:57] "GET /search?q=solo HTTP/1.1" 404 -
+2026-10-07 21:06:00,704 - __main__ - INFO - Info request for slug: home
+2026-10-07 21:06:00,705 - api - INFO - Getting info for slug: home
+2026-10-07 21:06:00,706 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.club
+2026-10-07 21:06:00,706 - api.utils.info - INFO - Initialized Info scraper for slug: home
+2026-10-07 21:06:00,707 - api.utils.info - INFO - Starting to scrape data for slug: home
+2026-10-07 21:06:01,756 - api.utils.parsing - ERROR - Failed to fetch HTML from home: 404 Client Error: Not Found for url: https://anichin.care/home
+2026-10-07 21:06:01,758 - api.utils.parsing - WARNING - No HTML content to parse for: home
+2026-10-07 21:06:01,760 - api.utils.info - ERROR - Failed to get initial data
+2026-10-07 21:06:01,771 - __main__ - WARNING - Info not found for slug: home
+2026-10-07 21:06:01,774 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:06:01] "GET /home HTTP/1.1" 404 -
+2026-10-07 21:06:07,350 - __main__ - INFO - Info request for slug: home
+2026-10-07 21:06:07,351 - api - INFO - Getting info for slug: home
+2026-10-07 21:06:07,352 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.club
+2026-10-07 21:06:07,352 - api.utils.info - INFO - Initialized Info scraper for slug: home
+2026-10-07 21:06:07,353 - api.utils.info - INFO - Starting to scrape data for slug: home
+2026-10-07 21:06:08,977 - api.utils.parsing - ERROR - Failed to fetch HTML from home: 404 Client Error: Not Found for url: https://anichin.care/home
+2026-10-07 21:06:08,978 - api.utils.parsing - WARNING - No HTML content to parse for: home
+2026-10-07 21:06:08,979 - api.utils.info - ERROR - Failed to get initial data
+2026-10-07 21:06:08,985 - __main__ - WARNING - Info not found for slug: home
+2026-10-07 21:06:08,990 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:06:08] "GET /home HTTP/1.1" 404 -
+2026-10-07 21:12:20,416 - api - INFO - Initialized Main API handler
+2026-10-07 21:12:20,419 - __main__ - INFO - Starting Anichin API server
+2026-10-07 21:12:20,446 - werkzeug - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2026-10-07 21:12:20,446 - werkzeug - INFO - Press CTRL+C to quit
+2026-10-07 21:12:20,447 - werkzeug - INFO -  * Restarting with stat
+2026-10-07 21:12:20,826 - api - INFO - Initialized Main API handler
+2026-10-07 21:12:20,830 - __main__ - INFO - Starting Anichin API server
+2026-10-07 21:12:20,849 - werkzeug - WARNING -  * Debugger is active!
+2026-10-07 21:12:20,852 - werkzeug - INFO -  * Debugger PIN: 505-469-834
+2026-10-07 21:12:49,023 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Ikram Fahmi\\Music\\anichin-server\\anichin-api-main\\main.py', reloading
+2026-10-07 21:12:49,195 - werkzeug - INFO -  * Restarting with stat
+2026-10-07 21:12:49,617 - api - INFO - Initialized Main API handler
+2026-10-07 21:12:49,621 - __main__ - INFO - Starting Anichin API server
+2026-10-07 21:12:49,639 - werkzeug - WARNING -  * Debugger is active!
+2026-10-07 21:12:49,645 - werkzeug - INFO -  * Debugger PIN: 505-469-834
+2026-10-07 21:13:01,117 - __main__ - INFO - Info request for slug: home
+2026-10-07 21:13:01,118 - api - INFO - Getting info for slug: home
+2026-10-07 21:13:01,118 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.club
+2026-10-07 21:13:01,119 - api.utils.info - INFO - Initialized Info scraper for slug: home
+2026-10-07 21:13:01,120 - api.utils.info - INFO - Starting to scrape data for slug: home
+2026-10-07 21:13:02,703 - api.utils.parsing - ERROR - Failed to fetch HTML from home: 404 Client Error: Not Found for url: https://anichin.care/home
+2026-10-07 21:13:02,704 - api.utils.parsing - WARNING - No HTML content to parse for: home
+2026-10-07 21:13:02,705 - api.utils.info - ERROR - Failed to get initial data
+2026-10-07 21:13:02,711 - __main__ - WARNING - Info not found for slug: home
+2026-10-07 21:13:02,724 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:13:02] "GET /home HTTP/1.1" 404 -
+2026-10-07 21:13:42,880 - __main__ - INFO - Info request for slug: home
+2026-10-07 21:13:42,893 - api - INFO - Getting info for slug: home
+2026-10-07 21:13:42,904 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.club
+2026-10-07 21:13:42,914 - api.utils.info - INFO - Initialized Info scraper for slug: home
+2026-10-07 21:13:42,939 - api.utils.info - INFO - Starting to scrape data for slug: home
+2026-10-07 21:13:43,929 - api.utils.parsing - ERROR - Failed to fetch HTML from home: 404 Client Error: Not Found for url: https://anichin.care/home
+2026-10-07 21:13:43,933 - api.utils.parsing - WARNING - No HTML content to parse for: home
+2026-10-07 21:13:43,934 - api.utils.info - ERROR - Failed to get initial data
+2026-10-07 21:13:43,940 - __main__ - WARNING - Info not found for slug: home
+2026-10-07 21:13:43,942 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:13:43] "GET /home HTTP/1.1" 404 -
+2026-10-07 21:18:06,067 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Ikram Fahmi\\Music\\anichin-server\\anichin-api-main\\main.py', reloading
+2026-10-07 21:18:06,154 - werkzeug - INFO -  * Restarting with stat
+2026-10-07 21:18:06,611 - api - INFO - Initialized Main API handler
+2026-10-07 21:18:06,614 - __main__ - INFO - Starting Anichin API server
+2026-10-07 21:18:06,632 - werkzeug - WARNING -  * Debugger is active!
+2026-10-07 21:18:06,635 - werkzeug - INFO -  * Debugger PIN: 505-469-834
+2026-10-07 21:18:08,656 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Ikram Fahmi\\Music\\anichin-server\\anichin-api-main\\main.py', reloading
+2026-10-07 21:18:08,730 - werkzeug - INFO -  * Restarting with stat
+2026-10-07 21:18:09,092 - api - INFO - Initialized Main API handler
+2026-10-07 21:18:09,095 - __main__ - INFO - Starting Anichin API server
+2026-10-07 21:18:09,109 - werkzeug - WARNING -  * Debugger is active!
+2026-10-07 21:18:09,113 - werkzeug - INFO -  * Debugger PIN: 505-469-834
+2026-10-07 21:18:50,028 - __main__ - INFO - Info request for slug: home
+2026-10-07 21:18:50,028 - api - INFO - Getting info for slug: home
+2026-10-07 21:18:50,030 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.club
+2026-10-07 21:18:50,031 - api.utils.info - INFO - Initialized Info scraper for slug: home
+2026-10-07 21:18:50,031 - api.utils.info - INFO - Starting to scrape data for slug: home
+2026-10-07 21:18:51,779 - api.utils.parsing - ERROR - Failed to fetch HTML from home: 404 Client Error: Not Found for url: https://anichin.care/home
+2026-10-07 21:18:51,779 - api.utils.parsing - WARNING - No HTML content to parse for: home
+2026-10-07 21:18:51,780 - api.utils.info - ERROR - Failed to get initial data
+2026-10-07 21:18:51,786 - __main__ - WARNING - Info not found for slug: home
+2026-10-07 21:18:51,791 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:18:51] "GET /home HTTP/1.1" 404 -
+2026-10-07 21:20:21,032 - api - INFO - Initialized Main API handler
+2026-10-07 21:20:21,035 - __main__ - INFO - Starting Anichin API server
+2026-10-07 21:20:21,060 - werkzeug - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2026-10-07 21:20:21,060 - werkzeug - INFO - Press CTRL+C to quit
+2026-10-07 21:20:21,061 - werkzeug - INFO -  * Restarting with stat
+2026-10-07 21:20:21,441 - api - INFO - Initialized Main API handler
+2026-10-07 21:20:21,445 - __main__ - INFO - Starting Anichin API server
+2026-10-07 21:20:21,460 - werkzeug - WARNING -  * Debugger is active!
+2026-10-07 21:20:21,463 - werkzeug - INFO -  * Debugger PIN: 505-469-834
+2026-10-07 21:20:44,825 - __main__ - INFO - Info request for slug: home
+2026-10-07 21:20:44,826 - api - INFO - Getting info for slug: home
+2026-10-07 21:20:44,827 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.club
+2026-10-07 21:20:44,828 - api.utils.info - INFO - Initialized Info scraper for slug: home
+2026-10-07 21:20:44,828 - api.utils.info - INFO - Starting to scrape data for slug: home
+2026-10-07 21:20:47,438 - api.utils.parsing - ERROR - Failed to fetch HTML from home: 404 Client Error: Not Found for url: https://anichin.care/home
+2026-10-07 21:20:47,440 - api.utils.parsing - WARNING - No HTML content to parse for: home
+2026-10-07 21:20:47,441 - api.utils.info - ERROR - Failed to get initial data
+2026-10-07 21:20:47,448 - __main__ - WARNING - Info not found for slug: home
+2026-10-07 21:20:47,454 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:20:47] "GET /home HTTP/1.1" 404 -
+2026-10-07 21:26:00,038 - __main__ - INFO - Home page request with page: None
+2026-10-07 21:26:00,038 - api - INFO - Getting home page for page: 1
+2026-10-07 21:26:00,039 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.club
+2026-10-07 21:26:00,040 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 21:26:00,040 - api.utils.home - INFO - Starting to fetch home page for page: 1
+2026-10-07 21:26:01,210 - api.utils.home - INFO - Found 0 sections in home page
+2026-10-07 21:26:01,211 - api.utils.home - INFO - Successfully processed 0 sections for page 1
+2026-10-07 21:26:01,218 - __main__ - INFO - Successfully served home page 1
+2026-10-07 21:26:01,220 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:26:01] "GET / HTTP/1.1" 200 -
+2026-10-07 21:29:34,625 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Ikram Fahmi\\Music\\anichin-server\\anichin-api-main\\api\\utils\\home.py', reloading
+2026-10-07 21:29:34,700 - werkzeug - INFO -  * Restarting with stat
+2026-10-07 21:29:35,095 - api - INFO - Initialized Main API handler
+2026-10-07 21:29:35,099 - __main__ - INFO - Starting Anichin API server
+2026-10-07 21:29:35,120 - werkzeug - WARNING -  * Debugger is active!
+2026-10-07 21:29:35,123 - werkzeug - INFO -  * Debugger PIN: 505-469-834
+2026-10-07 21:29:36,135 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Ikram Fahmi\\Music\\anichin-server\\anichin-api-main\\api\\utils\\home.py', reloading
+2026-10-07 21:29:36,206 - werkzeug - INFO -  * Restarting with stat
+2026-10-07 21:29:36,583 - api - INFO - Initialized Main API handler
+2026-10-07 21:29:36,587 - __main__ - INFO - Starting Anichin API server
+2026-10-07 21:29:36,603 - werkzeug - WARNING -  * Debugger is active!
+2026-10-07 21:29:36,606 - werkzeug - INFO -  * Debugger PIN: 505-469-834
+2026-10-07 21:29:46,722 - api - INFO - Initialized Main API handler
+2026-10-07 21:29:46,725 - __main__ - INFO - Starting Anichin API server
+2026-10-07 21:29:46,755 - werkzeug - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2026-10-07 21:29:46,755 - werkzeug - INFO - Press CTRL+C to quit
+2026-10-07 21:29:46,757 - werkzeug - INFO -  * Restarting with stat
+2026-10-07 21:29:47,151 - api - INFO - Initialized Main API handler
+2026-10-07 21:29:47,154 - __main__ - INFO - Starting Anichin API server
+2026-10-07 21:29:47,171 - werkzeug - WARNING -  * Debugger is active!
+2026-10-07 21:29:47,174 - werkzeug - INFO -  * Debugger PIN: 505-469-834
+2026-10-07 21:30:47,626 - __main__ - INFO - Home page request with page: None
+2026-10-07 21:30:47,627 - api - INFO - Getting home page for page: 1
+2026-10-07 21:30:47,628 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.club
+2026-10-07 21:30:47,628 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 21:30:47,629 - api.utils.home - INFO - Starting to fetch home page for page: 1
+2026-10-07 21:30:49,136 - api.utils.home - INFO - Found 2 sections in home page
+2026-10-07 21:30:49,142 - api.utils.home - INFO - Successfully processed 0 sections for page 1
+2026-10-07 21:30:49,154 - __main__ - INFO - Successfully served home page 1
+2026-10-07 21:30:49,157 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:30:49] "GET / HTTP/1.1" 200 -
+2026-10-07 21:31:44,975 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Ikram Fahmi\\Music\\anichin-server\\anichin-api-main\\api\\utils\\home.py', reloading
+2026-10-07 21:31:45,062 - werkzeug - INFO -  * Restarting with stat
+2026-10-07 21:31:45,471 - api - INFO - Initialized Main API handler
+2026-10-07 21:31:45,474 - __main__ - INFO - Starting Anichin API server
+2026-10-07 21:31:45,491 - werkzeug - WARNING -  * Debugger is active!
+2026-10-07 21:31:45,494 - werkzeug - INFO -  * Debugger PIN: 505-469-834
+2026-10-07 21:31:52,246 - __main__ - INFO - Home page request with page: None
+2026-10-07 21:31:52,246 - api - INFO - Getting home page for page: 1
+2026-10-07 21:31:52,247 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.club
+2026-10-07 21:31:52,247 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 21:31:53,554 - api.utils.home - INFO - Found 0 raw items in home page
+2026-10-07 21:31:53,562 - __main__ - INFO - Successfully served home page 1
+2026-10-07 21:31:53,568 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:31:53] "GET / HTTP/1.1" 200 -
+2026-10-07 21:33:46,406 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Ikram Fahmi\\Music\\anichin-server\\anichin-api-main\\api\\utils\\parsing.py', reloading
+2026-10-07 21:33:46,501 - werkzeug - INFO -  * Restarting with stat
+2026-10-07 21:33:46,914 - api - INFO - Initialized Main API handler
+2026-10-07 21:33:46,918 - __main__ - INFO - Starting Anichin API server
+2026-10-07 21:33:46,935 - werkzeug - WARNING -  * Debugger is active!
+2026-10-07 21:33:46,937 - werkzeug - INFO -  * Debugger PIN: 505-469-834
+2026-10-07 21:33:52,488 - __main__ - INFO - Home page request with page: None
+2026-10-07 21:33:52,489 - api - INFO - Getting home page for page: 1
+2026-10-07 21:33:52,490 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 21:33:52,490 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 21:33:54,080 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 21:33:54,115 - __main__ - INFO - Successfully served home page 1
+2026-10-07 21:33:54,125 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:33:54] "GET / HTTP/1.1" 200 -
+2026-10-07 21:38:13,929 - __main__ - INFO - Home page request with page: None
+2026-10-07 21:38:13,930 - api - INFO - Getting home page for page: 1
+2026-10-07 21:38:13,931 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 21:38:13,932 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 21:38:14,663 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 21:38:14,694 - __main__ - INFO - Successfully served home page 1
+2026-10-07 21:38:14,697 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:38:14] "GET / HTTP/1.1" 200 -
+2026-10-07 21:39:49,531 - api - INFO - Initialized Main API handler
+2026-10-07 21:39:49,534 - __main__ - INFO - Starting Anichin API server
+2026-10-07 21:39:49,561 - werkzeug - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2026-10-07 21:39:49,561 - werkzeug - INFO - Press CTRL+C to quit
+2026-10-07 21:39:49,563 - werkzeug - INFO -  * Restarting with stat
+2026-10-07 21:39:49,949 - api - INFO - Initialized Main API handler
+2026-10-07 21:39:49,952 - __main__ - INFO - Starting Anichin API server
+2026-10-07 21:39:49,971 - werkzeug - WARNING -  * Debugger is active!
+2026-10-07 21:39:49,975 - werkzeug - INFO -  * Debugger PIN: 505-469-834
+2026-10-07 21:40:15,155 - __main__ - INFO - Home page request with page: None
+2026-10-07 21:40:15,155 - api - INFO - Getting home page for page: 1
+2026-10-07 21:40:15,156 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 21:40:15,157 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 21:40:16,431 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 21:40:16,463 - __main__ - INFO - Successfully served home page 1
+2026-10-07 21:40:16,468 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:40:16] "GET / HTTP/1.1" 200 -
+2026-10-07 21:44:31,114 - __main__ - INFO - Home page request with page: None
+2026-10-07 21:44:31,115 - api - INFO - Getting home page for page: 1
+2026-10-07 21:44:31,116 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 21:44:31,117 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 21:44:31,714 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 21:44:31,749 - __main__ - INFO - Successfully served home page 1
+2026-10-07 21:44:31,753 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:44:31] "GET / HTTP/1.1" 200 -
+2026-10-07 21:44:35,698 - __main__ - WARNING - 404 error: http://127.0.0.1:5000/return-of-the-immortal-emperor-episode-16-subtitle-indonesia/
+2026-10-07 21:44:35,699 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:44:35] "GET /return-of-the-immortal-emperor-episode-16-subtitle-indonesia/ HTTP/1.1" 404 -
+2026-10-07 21:44:47,623 - __main__ - WARNING - 404 error: http://127.0.0.1:5000/keyboard-immortal-episode-33-subtitle-indonesia/
+2026-10-07 21:44:47,625 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:44:47] "GET /keyboard-immortal-episode-33-subtitle-indonesia/ HTTP/1.1" 404 -
+2026-10-07 21:48:18,615 - __main__ - INFO - Home page request with page: None
+2026-10-07 21:48:18,616 - api - INFO - Getting home page for page: 1
+2026-10-07 21:48:18,616 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 21:48:18,617 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 21:48:19,596 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 21:48:19,631 - __main__ - INFO - Successfully served home page 1
+2026-10-07 21:48:19,635 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:48:19] "GET / HTTP/1.1" 200 -
+2026-10-07 21:48:24,452 - __main__ - WARNING - 404 error: http://127.0.0.1:5000/keyboard-immortal-episode-33-subtitle-indonesia/
+2026-10-07 21:48:24,453 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:48:24] "GET /keyboard-immortal-episode-33-subtitle-indonesia/ HTTP/1.1" 404 -
+2026-10-07 21:48:38,935 - api - INFO - Initialized Main API handler
+2026-10-07 21:48:38,938 - __main__ - INFO - Starting Anichin API server
+2026-10-07 21:48:38,965 - werkzeug - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2026-10-07 21:48:38,965 - werkzeug - INFO - Press CTRL+C to quit
+2026-10-07 21:48:38,966 - werkzeug - INFO -  * Restarting with stat
+2026-10-07 21:48:39,337 - api - INFO - Initialized Main API handler
+2026-10-07 21:48:39,340 - __main__ - INFO - Starting Anichin API server
+2026-10-07 21:48:39,357 - werkzeug - WARNING -  * Debugger is active!
+2026-10-07 21:48:39,359 - werkzeug - INFO -  * Debugger PIN: 505-469-834
+2026-10-07 21:48:44,539 - __main__ - INFO - Home page request with page: None
+2026-10-07 21:48:44,539 - api - INFO - Getting home page for page: 1
+2026-10-07 21:48:44,540 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 21:48:44,541 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 21:48:45,329 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 21:48:45,363 - __main__ - INFO - Successfully served home page 1
+2026-10-07 21:48:45,376 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:48:45] "GET / HTTP/1.1" 200 -
+2026-10-07 21:48:46,967 - __main__ - WARNING - 404 error: http://127.0.0.1:5000/return-of-the-immortal-emperor-episode-16-subtitle-indonesia/
+2026-10-07 21:48:46,969 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:48:46] "GET /return-of-the-immortal-emperor-episode-16-subtitle-indonesia/ HTTP/1.1" 404 -
+2026-10-07 21:53:12,967 - __main__ - INFO - Home page request with page: None
+2026-10-07 21:53:12,967 - api - INFO - Getting home page for page: 1
+2026-10-07 21:53:12,968 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 21:53:12,968 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 21:53:13,699 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 21:53:13,731 - __main__ - INFO - Successfully served home page 1
+2026-10-07 21:53:13,736 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:53:13] "GET / HTTP/1.1" 200 -
+2026-10-07 21:53:15,459 - __main__ - WARNING - 404 error: http://127.0.0.1:5000/episode//return-of-the-immortal-emperor-episode-16-subtitle-indonesia/
+2026-10-07 21:53:15,460 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:53:15] "GET /episode//return-of-the-immortal-emperor-episode-16-subtitle-indonesia/ HTTP/1.1" 404 -
+2026-10-07 21:59:36,829 - __main__ - INFO - Home page request with page: None
+2026-10-07 21:59:36,830 - api - INFO - Getting home page for page: 1
+2026-10-07 21:59:36,830 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 21:59:36,831 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 21:59:37,562 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 21:59:37,591 - __main__ - INFO - Successfully served home page 1
+2026-10-07 21:59:37,593 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:59:37] "GET / HTTP/1.1" 200 -
+2026-10-07 21:59:39,146 - __main__ - WARNING - 404 error: http://127.0.0.1:5000/episode//return-of-the-immortal-emperor-episode-16-subtitle-indonesia/
+2026-10-07 21:59:39,148 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 21:59:39] "GET /episode//return-of-the-immortal-emperor-episode-16-subtitle-indonesia/ HTTP/1.1" 404 -
+2026-10-07 22:02:30,479 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:02:30,480 - api - INFO - Getting home page for page: 1
+2026-10-07 22:02:30,481 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:02:30,481 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:02:31,423 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:02:31,454 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:02:31,457 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:02:31] "GET / HTTP/1.1" 200 -
+2026-10-07 22:02:32,259 - __main__ - WARNING - 404 error: http://127.0.0.1:5000/episode//keyboard-immortal-episode-33-subtitle-indonesia/
+2026-10-07 22:02:32,261 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:02:32] "GET /episode//keyboard-immortal-episode-33-subtitle-indonesia/ HTTP/1.1" 404 -
+2026-10-07 22:03:52,556 - api - INFO - Initialized Main API handler
+2026-10-07 22:03:52,559 - __main__ - INFO - Starting Anichin API server
+2026-10-07 22:03:52,586 - werkzeug - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2026-10-07 22:03:52,587 - werkzeug - INFO - Press CTRL+C to quit
+2026-10-07 22:03:52,588 - werkzeug - INFO -  * Restarting with stat
+2026-10-07 22:03:52,982 - api - INFO - Initialized Main API handler
+2026-10-07 22:03:52,985 - __main__ - INFO - Starting Anichin API server
+2026-10-07 22:03:53,001 - werkzeug - WARNING -  * Debugger is active!
+2026-10-07 22:03:53,004 - werkzeug - INFO -  * Debugger PIN: 505-469-834
+2026-10-07 22:04:44,194 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:04:44,195 - api - INFO - Getting home page for page: 1
+2026-10-07 22:04:44,196 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:04:44,196 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:04:45,900 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:04:45,937 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:04:45,943 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:04:45] "GET / HTTP/1.1" 200 -
+2026-10-07 22:04:47,479 - __main__ - INFO - Episode request for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 22:04:47,479 - api - INFO - Getting episode for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 22:04:47,480 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:04:47,481 - api.utils.episode - INFO - Initialized Episode scraper for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 22:04:47,482 - api.utils.episode - INFO - Starting to scrape episode data for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 22:05:04,965 - api.utils.episode - INFO - Found 8 video sources
+2026-10-07 22:05:04,971 - api.utils.episode - INFO - Found 16 episodes
+2026-10-07 22:05:04,999 - api.utils.episode - INFO - Successfully processed 16 episodes
+2026-10-07 22:05:05,000 - api.utils.episode - INFO - Successfully scraped episode data for Return of The Immortal Emperor
+2026-10-07 22:05:05,001 - __main__ - INFO - Successfully served episode: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 22:05:05,002 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:05:05] "GET /episode/return-of-the-immortal-emperor-episode-16-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 22:12:48,027 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:12:48,027 - api - INFO - Getting home page for page: 1
+2026-10-07 22:12:48,027 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:12:48,028 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:12:48,542 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:12:48,551 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:12:48,552 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:12:48] "GET / HTTP/1.1" 200 -
+2026-10-07 22:13:08,808 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:13:08,809 - api - INFO - Getting home page for page: 1
+2026-10-07 22:13:08,811 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:13:08,812 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:13:10,821 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:13:10,850 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:13:10,854 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:13:10] "GET / HTTP/1.1" 200 -
+2026-10-07 22:25:34,970 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:25:34,971 - api - INFO - Getting home page for page: 1
+2026-10-07 22:25:34,972 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:25:34,972 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:25:36,305 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:25:36,335 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:25:36,338 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:25:36] "GET / HTTP/1.1" 200 -
+2026-10-07 22:25:37,885 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:25:37,885 - api - INFO - Getting home page for page: 1
+2026-10-07 22:25:37,886 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:25:37,887 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:25:38,680 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:25:38,714 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:25:38,717 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:25:38] "GET / HTTP/1.1" 200 -
+2026-10-07 22:25:39,908 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:25:39,908 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:25:39,909 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:25:39,910 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:25:39,910 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:25:41,510 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 22:25:41,528 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 22:25:41,542 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 22:25:41,544 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 22:25:41,552 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:25:41,553 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:25:41] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 22:25:43,124 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-32-subtitle-indonesia
+2026-10-07 22:25:43,124 - api - INFO - Getting episode for slug: keyboard-immortal-episode-32-subtitle-indonesia
+2026-10-07 22:25:43,125 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:25:43,126 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-32-subtitle-indonesia
+2026-10-07 22:25:43,126 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-32-subtitle-indonesia
+2026-10-07 22:25:44,856 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 22:25:44,877 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 22:25:44,897 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 22:25:44,900 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 22:25:44,904 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-32-subtitle-indonesia
+2026-10-07 22:25:44,910 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:25:44] "GET /episode/keyboard-immortal-episode-32-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 22:26:30,346 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:26:30,347 - api - INFO - Getting home page for page: 1
+2026-10-07 22:26:30,348 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:26:30,349 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:26:32,056 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:26:32,087 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:26:32,092 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:26:32] "GET / HTTP/1.1" 200 -
+2026-10-07 22:26:33,455 - __main__ - INFO - Info request for slug: legendary-twins-beyond-the-sky-movie-subtitle-indonesia
+2026-10-07 22:26:33,456 - api - INFO - Getting info for slug: legendary-twins-beyond-the-sky-movie-subtitle-indonesia
+2026-10-07 22:26:33,457 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:26:33,457 - api.utils.info - INFO - Initialized Info scraper for slug: legendary-twins-beyond-the-sky-movie-subtitle-indonesia
+2026-10-07 22:26:33,458 - api.utils.info - INFO - Starting to scrape data for slug: legendary-twins-beyond-the-sky-movie-subtitle-indonesia
+2026-10-07 22:26:36,407 - api.utils.info - WARNING - Anime name element not found
+2026-10-07 22:26:36,424 - api.utils.info - WARNING - Synopsis div not found
+2026-10-07 22:26:36,439 - api.utils.info - WARNING - Episode list section not found
+2026-10-07 22:26:36,444 - api.utils.info - INFO - Successfully scraped data for Unknown Title
+2026-10-07 22:26:36,448 - __main__ - INFO - Successfully served info for: legendary-twins-beyond-the-sky-movie-subtitle-indonesia
+2026-10-07 22:26:36,453 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:26:36] "GET /legendary-twins-beyond-the-sky-movie-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 22:28:04,187 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:28:04,188 - api - INFO - Getting home page for page: 1
+2026-10-07 22:28:04,189 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:28:04,189 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:28:04,938 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:28:04,967 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:28:04,969 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:28:04] "GET / HTTP/1.1" 200 -
+2026-10-07 22:28:06,662 - __main__ - INFO - Episode request for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:28:06,664 - api - INFO - Getting episode for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:28:06,666 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:28:06,667 - api.utils.episode - INFO - Initialized Episode scraper for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:28:06,671 - api.utils.episode - INFO - Starting to scrape episode data for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:28:08,753 - api.utils.episode - INFO - Found 8 video sources
+2026-10-07 22:28:08,779 - api.utils.episode - INFO - Found 16 episodes
+2026-10-07 22:28:08,787 - api.utils.episode - INFO - Successfully processed 16 episodes
+2026-10-07 22:28:08,791 - api.utils.episode - INFO - Successfully scraped episode data for IMMORTALITY SEASON 3
+2026-10-07 22:28:08,807 - __main__ - INFO - Successfully served episode: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:28:08,810 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:28:08] "GET /episode/immortality-season-3-episode-16-tamat-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 22:28:17,489 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:28:17,489 - api - INFO - Getting home page for page: 1
+2026-10-07 22:28:17,493 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:28:17,494 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:28:18,482 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:28:18,517 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:28:18,520 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:28:18] "GET / HTTP/1.1" 200 -
+2026-10-07 22:30:15,900 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:30:15,901 - api - INFO - Getting home page for page: 1
+2026-10-07 22:30:15,902 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:30:15,902 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:30:16,823 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:30:16,855 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:30:16,858 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:30:16] "GET / HTTP/1.1" 200 -
+2026-10-07 22:30:18,416 - __main__ - INFO - Episode request for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:30:18,416 - api - INFO - Getting episode for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:30:18,417 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:30:18,418 - api.utils.episode - INFO - Initialized Episode scraper for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:30:18,418 - api.utils.episode - INFO - Starting to scrape episode data for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:30:19,767 - api.utils.episode - INFO - Found 8 video sources
+2026-10-07 22:30:19,787 - api.utils.episode - INFO - Found 16 episodes
+2026-10-07 22:30:19,793 - api.utils.episode - INFO - Successfully processed 16 episodes
+2026-10-07 22:30:19,798 - api.utils.episode - INFO - Successfully scraped episode data for IMMORTALITY SEASON 3
+2026-10-07 22:30:19,807 - __main__ - INFO - Successfully served episode: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:30:19,810 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:30:19] "GET /episode/immortality-season-3-episode-16-tamat-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 22:30:22,769 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:30:22,770 - api - INFO - Getting home page for page: 1
+2026-10-07 22:30:22,771 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:30:22,771 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:30:23,551 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:30:23,582 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:30:23,586 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:30:23] "GET / HTTP/1.1" 200 -
+2026-10-07 22:31:15,639 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:31:15,640 - api - INFO - Getting home page for page: 1
+2026-10-07 22:31:15,641 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:31:15,641 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:31:16,462 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:31:16,497 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:31:16,500 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:31:16] "GET / HTTP/1.1" 200 -
+2026-10-07 22:31:17,582 - __main__ - INFO - Episode request for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 22:31:17,582 - api - INFO - Getting episode for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 22:31:17,583 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:31:17,583 - api.utils.episode - INFO - Initialized Episode scraper for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 22:31:17,584 - api.utils.episode - INFO - Starting to scrape episode data for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 22:31:18,970 - api.utils.episode - INFO - Found 8 video sources
+2026-10-07 22:31:18,988 - api.utils.episode - INFO - Found 16 episodes
+2026-10-07 22:31:18,994 - api.utils.episode - INFO - Successfully processed 16 episodes
+2026-10-07 22:31:19,003 - api.utils.episode - INFO - Successfully scraped episode data for Return of The Immortal Emperor
+2026-10-07 22:31:19,007 - __main__ - INFO - Successfully served episode: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 22:31:19,010 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:31:19] "GET /episode/return-of-the-immortal-emperor-episode-16-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 22:31:26,449 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:31:26,451 - api - INFO - Getting home page for page: 1
+2026-10-07 22:31:26,452 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:31:26,452 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:31:27,047 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:31:27,079 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:31:27,081 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:31:27] "GET / HTTP/1.1" 200 -
+2026-10-07 22:33:06,745 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:33:06,746 - api - INFO - Getting home page for page: 1
+2026-10-07 22:33:06,747 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:33:06,747 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:33:07,305 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:33:07,341 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:33:07,345 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:33:07] "GET / HTTP/1.1" 200 -
+2026-10-07 22:33:13,121 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:33:13,122 - api - INFO - Getting home page for page: 1
+2026-10-07 22:33:13,122 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:33:13,123 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:33:14,132 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:33:14,165 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:33:14,169 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:33:14] "GET / HTTP/1.1" 200 -
+2026-10-07 22:33:17,852 - __main__ - INFO - Info request for slug: legendary-twins-beyond-the-sky-movie-subtitle-indonesia
+2026-10-07 22:33:17,853 - api - INFO - Getting info for slug: legendary-twins-beyond-the-sky-movie-subtitle-indonesia
+2026-10-07 22:33:17,853 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:33:17,853 - api.utils.info - INFO - Initialized Info scraper for slug: legendary-twins-beyond-the-sky-movie-subtitle-indonesia
+2026-10-07 22:33:17,853 - api.utils.info - INFO - Starting to scrape data for slug: legendary-twins-beyond-the-sky-movie-subtitle-indonesia
+2026-10-07 22:33:19,748 - api.utils.info - WARNING - Anime name element not found
+2026-10-07 22:33:19,762 - api.utils.info - WARNING - Synopsis div not found
+2026-10-07 22:33:19,772 - api.utils.info - WARNING - Episode list section not found
+2026-10-07 22:33:19,780 - api.utils.info - INFO - Successfully scraped data for Unknown Title
+2026-10-07 22:33:19,784 - __main__ - INFO - Successfully served info for: legendary-twins-beyond-the-sky-movie-subtitle-indonesia
+2026-10-07 22:33:19,786 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:33:19] "GET /legendary-twins-beyond-the-sky-movie-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 22:33:45,066 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:33:45,067 - api - INFO - Getting home page for page: 1
+2026-10-07 22:33:45,068 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:33:45,068 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:33:45,808 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:33:45,838 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:33:45,843 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:33:45] "GET / HTTP/1.1" 200 -
+2026-10-07 22:33:48,110 - __main__ - INFO - Episode request for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:33:48,111 - api - INFO - Getting episode for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:33:48,112 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:33:48,112 - api.utils.episode - INFO - Initialized Episode scraper for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:33:48,113 - api.utils.episode - INFO - Starting to scrape episode data for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:33:49,492 - api.utils.episode - INFO - Found 8 video sources
+2026-10-07 22:33:49,513 - api.utils.episode - INFO - Found 16 episodes
+2026-10-07 22:33:49,527 - api.utils.episode - INFO - Successfully processed 16 episodes
+2026-10-07 22:33:49,530 - api.utils.episode - INFO - Successfully scraped episode data for IMMORTALITY SEASON 3
+2026-10-07 22:33:49,534 - __main__ - INFO - Successfully served episode: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:33:49,536 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:33:49] "GET /episode/immortality-season-3-episode-16-tamat-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 22:39:09,130 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:39:09,131 - api - INFO - Getting home page for page: 1
+2026-10-07 22:39:09,132 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:39:09,132 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:39:09,910 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:39:09,938 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:39:09,940 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:39:09] "GET / HTTP/1.1" 200 -
+2026-10-07 22:39:11,258 - __main__ - INFO - Episode request for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 22:39:11,260 - api - INFO - Getting episode for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 22:39:11,261 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:39:11,261 - api.utils.episode - INFO - Initialized Episode scraper for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 22:39:11,262 - api.utils.episode - INFO - Starting to scrape episode data for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 22:39:13,110 - api.utils.episode - INFO - Found 8 video sources
+2026-10-07 22:39:13,128 - api.utils.episode - INFO - Found 16 episodes
+2026-10-07 22:39:13,135 - api.utils.episode - INFO - Successfully processed 16 episodes
+2026-10-07 22:39:13,138 - api.utils.episode - INFO - Successfully scraped episode data for Return of The Immortal Emperor
+2026-10-07 22:39:13,142 - __main__ - INFO - Successfully served episode: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 22:39:13,143 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:39:13] "GET /episode/return-of-the-immortal-emperor-episode-16-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 22:40:28,189 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:40:28,190 - api - INFO - Getting home page for page: 1
+2026-10-07 22:40:28,191 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:40:28,191 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:40:29,083 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:40:29,138 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:40:29,159 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:40:29] "GET / HTTP/1.1" 200 -
+2026-10-07 22:40:29,925 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:40:29,926 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:40:29,926 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:40:29,927 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:40:29,927 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:40:31,556 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 22:40:31,574 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 22:40:31,591 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 22:40:31,594 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 22:40:31,599 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:40:31,606 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:40:31] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 22:43:29,832 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:43:29,833 - api - INFO - Getting home page for page: 1
+2026-10-07 22:43:29,834 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:43:29,835 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:43:30,608 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:43:30,640 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:43:30,642 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:43:30] "GET / HTTP/1.1" 200 -
+2026-10-07 22:43:31,307 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:43:31,308 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:43:31,309 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:43:31,309 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:43:31,310 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:43:32,908 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 22:43:32,928 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 22:43:32,948 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 22:43:32,955 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 22:43:32,968 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:43:32,970 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:43:32] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 22:45:58,300 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:45:58,301 - api - INFO - Getting home page for page: 1
+2026-10-07 22:45:58,302 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:45:58,303 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:45:59,558 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:45:59,586 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:45:59,589 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:45:59] "GET / HTTP/1.1" 200 -
+2026-10-07 22:46:00,217 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:46:00,218 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:46:00,219 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:46:00,219 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:46:00,220 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:46:01,546 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 22:46:01,565 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 22:46:01,585 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 22:46:01,588 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 22:46:01,594 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:46:01,606 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:46:01] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 22:46:58,423 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:46:58,424 - api - INFO - Getting home page for page: 1
+2026-10-07 22:46:58,425 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:46:58,425 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:46:59,087 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:46:59,125 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:46:59,131 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:46:59] "GET / HTTP/1.1" 200 -
+2026-10-07 22:46:59,772 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:46:59,773 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:46:59,774 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:46:59,774 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:46:59,775 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:47:03,779 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 22:47:03,797 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 22:47:03,815 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 22:47:03,817 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 22:47:03,821 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:47:03,822 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:47:03] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 22:49:24,902 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:49:24,903 - api - INFO - Getting home page for page: 1
+2026-10-07 22:49:24,904 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:49:24,904 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:49:25,604 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:49:25,636 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:49:25,638 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:49:25] "GET / HTTP/1.1" 200 -
+2026-10-07 22:49:26,519 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:49:26,519 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:49:26,520 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:49:26,521 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:49:26,522 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:49:28,095 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 22:49:28,105 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 22:49:28,116 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 22:49:28,119 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 22:49:28,126 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:49:28,129 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:49:28] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 22:49:28,826 - __main__ - INFO - Episode request for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:49:28,827 - api - INFO - Getting episode for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:49:28,828 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:49:28,828 - api.utils.episode - INFO - Initialized Episode scraper for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:49:28,829 - api.utils.episode - INFO - Starting to scrape episode data for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:49:30,556 - api.utils.episode - INFO - Found 8 video sources
+2026-10-07 22:49:30,572 - api.utils.episode - INFO - Found 16 episodes
+2026-10-07 22:49:30,580 - api.utils.episode - INFO - Successfully processed 16 episodes
+2026-10-07 22:49:30,585 - api.utils.episode - INFO - Successfully scraped episode data for IMMORTALITY SEASON 3
+2026-10-07 22:49:30,595 - __main__ - INFO - Successfully served episode: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 22:49:30,600 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:49:30] "GET /episode/immortality-season-3-episode-16-tamat-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 22:51:45,172 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:51:45,172 - api - INFO - Getting home page for page: 1
+2026-10-07 22:51:45,173 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:51:45,174 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:51:46,277 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:51:46,311 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:51:46,314 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:51:46] "GET / HTTP/1.1" 200 -
+2026-10-07 22:52:04,752 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:52:04,753 - api - INFO - Getting home page for page: 1
+2026-10-07 22:52:04,754 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:52:04,754 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:52:05,383 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:52:05,414 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:52:05,416 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:52:05] "GET / HTTP/1.1" 200 -
+2026-10-07 22:52:30,431 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:52:30,432 - api - INFO - Getting home page for page: 1
+2026-10-07 22:52:30,433 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:52:30,433 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:52:31,249 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:52:31,291 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:52:31,299 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:52:31] "GET / HTTP/1.1" 200 -
+2026-10-07 22:56:50,684 - __main__ - INFO - Home page request with page: None
+2026-10-07 22:56:50,685 - api - INFO - Getting home page for page: 1
+2026-10-07 22:56:50,686 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:56:50,686 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 22:56:51,537 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 22:56:51,585 - __main__ - INFO - Successfully served home page 1
+2026-10-07 22:56:51,588 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:56:51] "GET / HTTP/1.1" 200 -
+2026-10-07 22:57:52,047 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:57:52,047 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:57:52,048 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 22:57:52,049 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:57:52,049 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:57:53,711 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 22:57:53,731 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 22:57:53,752 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 22:57:53,755 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 22:57:53,758 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 22:57:53,762 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 22:57:53] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:02:33,430 - __main__ - INFO - Home page request with page: None
+2026-10-07 23:02:33,431 - api - INFO - Getting home page for page: 1
+2026-10-07 23:02:33,433 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:02:33,433 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 23:02:34,548 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 23:02:34,584 - __main__ - INFO - Successfully served home page 1
+2026-10-07 23:02:34,587 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:02:34] "GET / HTTP/1.1" 200 -
+2026-10-07 23:02:36,651 - __main__ - INFO - Episode request for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 23:02:36,652 - api - INFO - Getting episode for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 23:02:36,652 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:02:36,653 - api.utils.episode - INFO - Initialized Episode scraper for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 23:02:36,654 - api.utils.episode - INFO - Starting to scrape episode data for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 23:02:38,277 - api.utils.episode - INFO - Found 8 video sources
+2026-10-07 23:02:38,296 - api.utils.episode - INFO - Found 16 episodes
+2026-10-07 23:02:38,302 - api.utils.episode - INFO - Successfully processed 16 episodes
+2026-10-07 23:02:38,310 - api.utils.episode - INFO - Successfully scraped episode data for Return of The Immortal Emperor
+2026-10-07 23:02:38,318 - __main__ - INFO - Successfully served episode: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 23:02:38,322 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:02:38] "GET /episode/return-of-the-immortal-emperor-episode-16-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:05:50,787 - __main__ - INFO - Home page request with page: None
+2026-10-07 23:05:50,787 - api - INFO - Getting home page for page: 1
+2026-10-07 23:05:50,789 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:05:50,789 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 23:05:51,594 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 23:05:51,639 - __main__ - INFO - Successfully served home page 1
+2026-10-07 23:05:51,642 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:05:51] "GET / HTTP/1.1" 200 -
+2026-10-07 23:07:30,106 - __main__ - INFO - Home page request with page: None
+2026-10-07 23:07:30,107 - api - INFO - Getting home page for page: 1
+2026-10-07 23:07:30,108 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:07:30,108 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 23:07:30,641 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 23:07:30,676 - __main__ - INFO - Successfully served home page 1
+2026-10-07 23:07:30,678 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:07:30] "GET / HTTP/1.1" 200 -
+2026-10-07 23:07:31,408 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:07:31,409 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:07:31,409 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:07:31,410 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:07:31,411 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:07:32,782 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 23:07:32,803 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 23:07:32,817 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 23:07:32,822 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 23:07:32,826 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:07:32,828 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:07:32] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:07:33,985 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-32-subtitle-indonesia
+2026-10-07 23:07:33,987 - api - INFO - Getting episode for slug: keyboard-immortal-episode-32-subtitle-indonesia
+2026-10-07 23:07:33,987 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:07:33,988 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-32-subtitle-indonesia
+2026-10-07 23:07:33,989 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-32-subtitle-indonesia
+2026-10-07 23:07:35,466 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 23:07:35,483 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 23:07:35,499 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 23:07:35,508 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 23:07:35,513 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-32-subtitle-indonesia
+2026-10-07 23:07:35,516 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:07:35] "GET /episode/keyboard-immortal-episode-32-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:07:41,821 - __main__ - INFO - Info request for slug: legendary-twins-beyond-the-sky-movie-subtitle-indonesia
+2026-10-07 23:07:41,821 - api - INFO - Getting info for slug: legendary-twins-beyond-the-sky-movie-subtitle-indonesia
+2026-10-07 23:07:41,822 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:07:41,822 - api.utils.info - INFO - Initialized Info scraper for slug: legendary-twins-beyond-the-sky-movie-subtitle-indonesia
+2026-10-07 23:07:41,823 - api.utils.info - INFO - Starting to scrape data for slug: legendary-twins-beyond-the-sky-movie-subtitle-indonesia
+2026-10-07 23:07:43,221 - api.utils.info - WARNING - Anime name element not found
+2026-10-07 23:07:43,237 - api.utils.info - WARNING - Synopsis div not found
+2026-10-07 23:07:43,250 - api.utils.info - WARNING - Episode list section not found
+2026-10-07 23:07:43,251 - api.utils.info - INFO - Successfully scraped data for Unknown Title
+2026-10-07 23:07:43,255 - __main__ - INFO - Successfully served info for: legendary-twins-beyond-the-sky-movie-subtitle-indonesia
+2026-10-07 23:07:43,262 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:07:43] "GET /legendary-twins-beyond-the-sky-movie-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:07:45,545 - __main__ - INFO - Episode request for slug: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:07:45,546 - api - INFO - Getting episode for slug: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:07:45,547 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:07:45,547 - api.utils.episode - INFO - Initialized Episode scraper for slug: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:07:45,548 - api.utils.episode - INFO - Starting to scrape episode data for slug: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:07:47,666 - api.utils.episode - INFO - Found 8 video sources
+2026-10-07 23:07:47,688 - api.utils.episode - INFO - Found 40 episodes
+2026-10-07 23:07:47,711 - api.utils.episode - INFO - Successfully processed 40 episodes
+2026-10-07 23:07:47,723 - api.utils.episode - INFO - Successfully scraped episode data for Heaven Swallowing Record
+2026-10-07 23:07:47,755 - __main__ - INFO - Successfully served episode: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:07:47,768 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:07:47] "GET /episode/heaven-swallowing-record-episode-40-tamat-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:16:44,845 - __main__ - INFO - Home page request with page: None
+2026-10-07 23:16:44,845 - api - INFO - Getting home page for page: 1
+2026-10-07 23:16:44,846 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:16:44,847 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 23:16:45,732 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 23:16:45,761 - __main__ - INFO - Successfully served home page 1
+2026-10-07 23:16:45,763 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:16:45] "GET / HTTP/1.1" 200 -
+2026-10-07 23:16:46,229 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:16:46,230 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:16:46,230 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:16:46,231 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:16:46,231 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:16:47,799 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 23:16:47,819 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 23:16:47,833 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 23:16:47,844 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 23:16:47,848 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:16:47,850 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:16:47] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:16:50,816 - __main__ - INFO - Episode request for slug: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:16:50,817 - api - INFO - Getting episode for slug: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:16:50,818 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:16:50,818 - api.utils.episode - INFO - Initialized Episode scraper for slug: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:16:50,819 - api.utils.episode - INFO - Starting to scrape episode data for slug: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:16:52,534 - api.utils.episode - INFO - Found 8 video sources
+2026-10-07 23:16:52,552 - api.utils.episode - INFO - Found 40 episodes
+2026-10-07 23:16:52,571 - api.utils.episode - INFO - Successfully processed 40 episodes
+2026-10-07 23:16:52,575 - api.utils.episode - INFO - Successfully scraped episode data for Heaven Swallowing Record
+2026-10-07 23:16:52,578 - __main__ - INFO - Successfully served episode: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:16:52,582 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:16:52] "GET /episode/heaven-swallowing-record-episode-40-tamat-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:16:56,169 - __main__ - INFO - Episode request for slug: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:16:56,169 - api - INFO - Getting episode for slug: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:16:56,170 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:16:56,170 - api.utils.episode - INFO - Initialized Episode scraper for slug: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:16:56,171 - api.utils.episode - INFO - Starting to scrape episode data for slug: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:16:57,771 - api.utils.episode - INFO - Found 8 video sources
+2026-10-07 23:16:57,795 - api.utils.episode - INFO - Found 40 episodes
+2026-10-07 23:16:57,821 - api.utils.episode - INFO - Successfully processed 40 episodes
+2026-10-07 23:16:57,826 - api.utils.episode - INFO - Successfully scraped episode data for Heaven Swallowing Record
+2026-10-07 23:16:57,831 - __main__ - INFO - Successfully served episode: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:16:57,833 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:16:57] "GET /episode/heaven-swallowing-record-episode-40-tamat-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:18:49,276 - __main__ - INFO - Home page request with page: None
+2026-10-07 23:18:49,277 - api - INFO - Getting home page for page: 1
+2026-10-07 23:18:49,278 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:18:49,278 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 23:18:50,071 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 23:18:50,102 - __main__ - INFO - Successfully served home page 1
+2026-10-07 23:18:50,111 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:18:50] "GET / HTTP/1.1" 200 -
+2026-10-07 23:18:50,661 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:18:50,662 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:18:50,663 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:18:50,663 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:18:50,664 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:18:52,754 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 23:18:52,776 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 23:18:52,805 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 23:18:52,812 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 23:18:52,820 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:18:52,832 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:18:52] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:18:54,096 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:18:54,098 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:18:54,098 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:18:54,099 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:18:54,100 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:18:56,218 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 23:18:56,238 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 23:18:56,259 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 23:18:56,262 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 23:18:56,268 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:18:56,274 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:18:56] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:22:32,435 - __main__ - INFO - Home page request with page: None
+2026-10-07 23:22:32,435 - api - INFO - Getting home page for page: 1
+2026-10-07 23:22:32,436 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:22:32,436 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 23:22:33,395 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 23:22:33,430 - __main__ - INFO - Successfully served home page 1
+2026-10-07 23:22:33,433 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:22:33] "GET / HTTP/1.1" 200 -
+2026-10-07 23:22:34,053 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:22:34,053 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:22:34,054 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:22:34,055 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:22:34,056 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:22:35,442 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 23:22:35,463 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 23:22:35,487 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 23:22:35,490 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 23:22:35,499 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:22:35,501 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:22:35] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:22:37,136 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:22:37,137 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:22:37,138 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:22:37,138 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:22:37,139 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:22:38,527 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 23:22:38,547 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 23:22:38,566 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 23:22:38,570 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 23:22:38,576 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:22:38,580 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:22:38] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:30:31,099 - __main__ - INFO - Home page request with page: None
+2026-10-07 23:30:31,101 - api - INFO - Getting home page for page: 1
+2026-10-07 23:30:31,102 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:30:31,102 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 23:30:31,811 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 23:30:31,844 - __main__ - INFO - Successfully served home page 1
+2026-10-07 23:30:31,849 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:30:31] "GET / HTTP/1.1" 200 -
+2026-10-07 23:30:32,564 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:30:32,564 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:30:32,565 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:30:32,566 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:30:32,566 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:30:34,125 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 23:30:34,151 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 23:30:34,171 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 23:30:34,179 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 23:30:34,183 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:30:34,185 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:30:34] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:30:35,532 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:30:35,533 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:30:35,534 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:30:35,534 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:30:35,535 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:30:37,330 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 23:30:37,349 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 23:30:37,374 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 23:30:37,379 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 23:30:37,386 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:30:37,388 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:30:37] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:30:43,471 - __main__ - INFO - Home page request with page: None
+2026-10-07 23:30:43,472 - api - INFO - Getting home page for page: 1
+2026-10-07 23:30:43,473 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:30:43,473 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 23:30:44,010 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 23:30:44,037 - __main__ - INFO - Successfully served home page 1
+2026-10-07 23:30:44,044 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:30:44] "GET / HTTP/1.1" 200 -
+2026-10-07 23:30:44,661 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:30:44,662 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:30:44,663 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:30:44,663 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:30:44,664 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:30:45,969 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 23:30:45,991 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 23:30:46,003 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 23:30:46,009 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 23:30:46,013 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:30:46,015 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:30:46] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:30:51,752 - __main__ - INFO - Episode request for slug: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:30:51,753 - api - INFO - Getting episode for slug: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:30:51,754 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:30:51,754 - api.utils.episode - INFO - Initialized Episode scraper for slug: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:30:51,755 - api.utils.episode - INFO - Starting to scrape episode data for slug: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:30:53,185 - api.utils.episode - INFO - Found 8 video sources
+2026-10-07 23:30:53,206 - api.utils.episode - INFO - Found 40 episodes
+2026-10-07 23:30:53,228 - api.utils.episode - INFO - Successfully processed 40 episodes
+2026-10-07 23:30:53,231 - api.utils.episode - INFO - Successfully scraped episode data for Heaven Swallowing Record
+2026-10-07 23:30:53,235 - __main__ - INFO - Successfully served episode: heaven-swallowing-record-episode-40-tamat-subtitle-indonesia
+2026-10-07 23:30:53,243 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:30:53] "GET /episode/heaven-swallowing-record-episode-40-tamat-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:36:54,753 - __main__ - INFO - Home page request with page: None
+2026-10-07 23:36:54,754 - api - INFO - Getting home page for page: 1
+2026-10-07 23:36:54,755 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:36:54,755 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 23:36:55,704 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 23:36:55,737 - __main__ - INFO - Successfully served home page 1
+2026-10-07 23:36:55,739 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:36:55] "GET / HTTP/1.1" 200 -
+2026-10-07 23:36:55,985 - __main__ - INFO - Home page request with page: None
+2026-10-07 23:36:55,986 - api - INFO - Getting home page for page: 1
+2026-10-07 23:36:55,988 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:36:55,989 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 23:36:56,923 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 23:36:56,954 - __main__ - INFO - Successfully served home page 1
+2026-10-07 23:36:56,958 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:36:56] "GET / HTTP/1.1" 200 -
+2026-10-07 23:36:57,102 - __main__ - INFO - Home page request with page: None
+2026-10-07 23:36:57,103 - api - INFO - Getting home page for page: 1
+2026-10-07 23:36:57,104 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:36:57,104 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 23:36:57,697 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 23:36:57,728 - __main__ - INFO - Successfully served home page 1
+2026-10-07 23:36:57,730 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:36:57] "GET / HTTP/1.1" 200 -
+2026-10-07 23:37:12,649 - __main__ - INFO - Home page request with page: None
+2026-10-07 23:37:12,650 - api - INFO - Getting home page for page: 1
+2026-10-07 23:37:12,650 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:37:12,651 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 23:37:13,385 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 23:37:13,415 - __main__ - INFO - Successfully served home page 1
+2026-10-07 23:37:13,418 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:37:13] "GET / HTTP/1.1" 200 -
+2026-10-07 23:42:13,898 - __main__ - INFO - Home page request with page: None
+2026-10-07 23:42:13,899 - api - INFO - Getting home page for page: 1
+2026-10-07 23:42:13,899 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:42:13,900 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 23:42:14,641 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 23:42:14,673 - __main__ - INFO - Successfully served home page 1
+2026-10-07 23:42:14,676 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:42:14] "GET / HTTP/1.1" 200 -
+2026-10-07 23:42:23,690 - __main__ - INFO - Home page request with page: None
+2026-10-07 23:42:23,690 - api - INFO - Getting home page for page: 1
+2026-10-07 23:42:23,691 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:42:23,692 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 23:42:24,351 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 23:42:24,382 - __main__ - INFO - Successfully served home page 1
+2026-10-07 23:42:24,384 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:42:24] "GET / HTTP/1.1" 200 -
+2026-10-07 23:42:24,842 - __main__ - INFO - Episode request for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 23:42:24,843 - api - INFO - Getting episode for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 23:42:24,843 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:42:24,844 - api.utils.episode - INFO - Initialized Episode scraper for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 23:42:24,844 - api.utils.episode - INFO - Starting to scrape episode data for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 23:42:26,210 - api.utils.episode - INFO - Found 8 video sources
+2026-10-07 23:42:26,228 - api.utils.episode - INFO - Found 16 episodes
+2026-10-07 23:42:26,234 - api.utils.episode - INFO - Successfully processed 16 episodes
+2026-10-07 23:42:26,237 - api.utils.episode - INFO - Successfully scraped episode data for IMMORTALITY SEASON 3
+2026-10-07 23:42:26,241 - __main__ - INFO - Successfully served episode: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 23:42:26,243 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:42:26] "GET /episode/immortality-season-3-episode-16-tamat-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:42:27,366 - __main__ - INFO - Episode request for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 23:42:27,367 - api - INFO - Getting episode for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 23:42:27,368 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:42:27,368 - api.utils.episode - INFO - Initialized Episode scraper for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 23:42:27,368 - api.utils.episode - INFO - Starting to scrape episode data for slug: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 23:42:28,762 - api.utils.episode - INFO - Found 8 video sources
+2026-10-07 23:42:28,782 - api.utils.episode - INFO - Found 16 episodes
+2026-10-07 23:42:28,786 - api.utils.episode - INFO - Successfully processed 16 episodes
+2026-10-07 23:42:28,788 - api.utils.episode - INFO - Successfully scraped episode data for IMMORTALITY SEASON 3
+2026-10-07 23:42:28,793 - __main__ - INFO - Successfully served episode: immortality-season-3-episode-16-tamat-subtitle-indonesia
+2026-10-07 23:42:28,794 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:42:28] "GET /episode/immortality-season-3-episode-16-tamat-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:43:19,364 - __main__ - INFO - Home page request with page: None
+2026-10-07 23:43:19,367 - api - INFO - Getting home page for page: 1
+2026-10-07 23:43:19,376 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:43:19,388 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 23:43:20,222 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 23:43:20,298 - __main__ - INFO - Successfully served home page 1
+2026-10-07 23:43:20,320 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:43:20] "GET / HTTP/1.1" 200 -
+2026-10-07 23:43:21,180 - __main__ - INFO - Episode request for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 23:43:21,182 - api - INFO - Getting episode for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 23:43:21,184 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:43:21,185 - api.utils.episode - INFO - Initialized Episode scraper for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 23:43:21,186 - api.utils.episode - INFO - Starting to scrape episode data for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 23:43:22,762 - api.utils.episode - INFO - Found 8 video sources
+2026-10-07 23:43:22,780 - api.utils.episode - INFO - Found 16 episodes
+2026-10-07 23:43:22,791 - api.utils.episode - INFO - Successfully processed 16 episodes
+2026-10-07 23:43:22,796 - api.utils.episode - INFO - Successfully scraped episode data for Return of The Immortal Emperor
+2026-10-07 23:43:22,804 - __main__ - INFO - Successfully served episode: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 23:43:22,808 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:43:22] "GET /episode/return-of-the-immortal-emperor-episode-16-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:43:24,718 - __main__ - INFO - Episode request for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 23:43:24,719 - api - INFO - Getting episode for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 23:43:24,720 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:43:24,720 - api.utils.episode - INFO - Initialized Episode scraper for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 23:43:24,721 - api.utils.episode - INFO - Starting to scrape episode data for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 23:43:26,362 - api.utils.episode - INFO - Found 8 video sources
+2026-10-07 23:43:26,382 - api.utils.episode - INFO - Found 16 episodes
+2026-10-07 23:43:26,394 - api.utils.episode - INFO - Successfully processed 16 episodes
+2026-10-07 23:43:26,401 - api.utils.episode - INFO - Successfully scraped episode data for Return of The Immortal Emperor
+2026-10-07 23:43:26,410 - __main__ - INFO - Successfully served episode: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-07 23:43:26,416 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:43:26] "GET /episode/return-of-the-immortal-emperor-episode-16-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:55:50,738 - __main__ - INFO - Home page request with page: None
+2026-10-07 23:55:50,738 - api - INFO - Getting home page for page: 1
+2026-10-07 23:55:50,739 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:55:50,740 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-07 23:55:51,589 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-07 23:55:51,629 - __main__ - INFO - Successfully served home page 1
+2026-10-07 23:55:51,632 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:55:51] "GET / HTTP/1.1" 200 -
+2026-10-07 23:55:52,183 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:55:52,184 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:55:52,185 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:55:52,185 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:55:52,186 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:55:54,056 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 23:55:54,078 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 23:55:54,097 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 23:55:54,102 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 23:55:54,113 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:55:54,115 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:55:54] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-07 23:55:55,142 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:55:55,143 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:55:55,144 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-07 23:55:55,146 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:55:55,146 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:55:56,491 - api.utils.episode - INFO - Found 5 video sources
+2026-10-07 23:55:56,516 - api.utils.episode - INFO - Found 33 episodes
+2026-10-07 23:55:56,530 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-07 23:55:56,536 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-07 23:55:56,546 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-07 23:55:56,549 - werkzeug - INFO - 127.0.0.1 - - [07/Oct/2026 23:55:56] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-08 00:20:54,269 - __main__ - INFO - Home page request with page: None
+2026-10-08 00:20:54,270 - api - INFO - Getting home page for page: 1
+2026-10-08 00:20:54,271 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 00:20:54,272 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 00:20:54,859 - api.utils.home - INFO - Found 57 raw items in home page
+2026-10-08 00:20:54,895 - __main__ - INFO - Successfully served home page 1
+2026-10-08 00:20:54,898 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 00:20:54] "GET / HTTP/1.1" 200 -
+2026-10-08 00:20:55,483 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 00:20:55,484 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 00:20:55,485 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 00:20:55,485 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 00:20:55,485 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 00:20:56,871 - api.utils.episode - INFO - Found 5 video sources
+2026-10-08 00:20:56,891 - api.utils.episode - INFO - Found 33 episodes
+2026-10-08 00:20:56,926 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-08 00:20:56,931 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-08 00:20:56,937 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 00:20:56,940 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 00:20:56] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-08 00:20:57,933 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 00:20:57,934 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 00:20:57,935 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 00:20:57,935 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 00:20:57,936 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 00:20:59,278 - api.utils.episode - INFO - Found 5 video sources
+2026-10-08 00:20:59,304 - api.utils.episode - INFO - Found 33 episodes
+2026-10-08 00:20:59,318 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-08 00:20:59,331 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-08 00:20:59,335 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 00:20:59,337 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 00:20:59] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-08 14:00:07,288 - api - INFO - Initialized Main API handler
+2026-10-08 14:00:07,293 - __main__ - INFO - Starting Anichin API server
+2026-10-08 14:00:07,401 - werkzeug - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2026-10-08 14:00:07,401 - werkzeug - INFO - Press CTRL+C to quit
+2026-10-08 14:00:07,404 - werkzeug - INFO -  * Restarting with stat
+2026-10-08 14:00:07,910 - api - INFO - Initialized Main API handler
+2026-10-08 14:00:07,917 - __main__ - INFO - Starting Anichin API server
+2026-10-08 14:00:07,951 - werkzeug - WARNING -  * Debugger is active!
+2026-10-08 14:00:07,958 - werkzeug - INFO -  * Debugger PIN: 370-234-174
+2026-10-08 14:09:49,859 - __main__ - INFO - Home page request with page: None
+2026-10-08 14:09:49,860 - api - INFO - Getting home page for page: 1
+2026-10-08 14:09:49,861 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 14:09:49,861 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 14:09:51,154 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 14:09:51,190 - __main__ - INFO - Successfully served home page 1
+2026-10-08 14:09:51,195 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 14:09:51] "GET / HTTP/1.1" 200 -
+2026-10-08 14:09:58,797 - __main__ - INFO - Home page request with page: None
+2026-10-08 14:09:58,797 - api - INFO - Getting home page for page: 1
+2026-10-08 14:09:58,797 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 14:09:58,797 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 14:09:59,387 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 14:09:59,396 - __main__ - INFO - Successfully served home page 1
+2026-10-08 14:09:59,399 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 14:09:59] "GET / HTTP/1.1" 200 -
+2026-10-08 14:10:51,737 - __main__ - INFO - Home page request with page: None
+2026-10-08 14:10:51,737 - api - INFO - Getting home page for page: 1
+2026-10-08 14:10:51,738 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 14:10:51,738 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 14:10:52,509 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 14:10:52,538 - __main__ - INFO - Successfully served home page 1
+2026-10-08 14:10:52,540 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 14:10:52] "GET / HTTP/1.1" 200 -
+2026-10-08 14:11:45,568 - __main__ - INFO - Home page request with page: None
+2026-10-08 14:11:45,569 - api - INFO - Getting home page for page: 1
+2026-10-08 14:11:45,570 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 14:11:45,570 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 14:11:46,247 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 14:11:46,358 - __main__ - INFO - Successfully served home page 1
+2026-10-08 14:11:46,389 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 14:11:46] "GET / HTTP/1.1" 200 -
+2026-10-08 14:18:13,998 - __main__ - INFO - Home page request with page: None
+2026-10-08 14:18:13,999 - api - INFO - Getting home page for page: 1
+2026-10-08 14:18:14,000 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 14:18:14,001 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 14:18:14,660 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 14:18:14,693 - __main__ - INFO - Successfully served home page 1
+2026-10-08 14:18:14,703 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 14:18:14] "GET / HTTP/1.1" 200 -
+2026-10-08 14:19:50,749 - __main__ - INFO - Home page request with page: None
+2026-10-08 14:19:50,758 - api - INFO - Getting home page for page: 1
+2026-10-08 14:19:50,770 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 14:19:50,796 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 14:19:51,884 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 14:19:51,915 - __main__ - INFO - Successfully served home page 1
+2026-10-08 14:19:51,920 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 14:19:51] "GET / HTTP/1.1" 200 -
+2026-10-08 14:19:52,515 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:19:52,515 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:19:52,516 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 14:19:52,516 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:19:52,517 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:19:53,898 - api.utils.episode - INFO - Found 5 video sources
+2026-10-08 14:19:53,920 - api.utils.episode - INFO - Found 33 episodes
+2026-10-08 14:19:53,983 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-08 14:19:54,010 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-08 14:19:54,029 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:19:54,049 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 14:19:54] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-08 14:21:29,989 - __main__ - INFO - Home page request with page: None
+2026-10-08 14:21:29,989 - api - INFO - Getting home page for page: 1
+2026-10-08 14:21:29,990 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 14:21:29,991 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 14:21:30,499 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 14:21:30,534 - __main__ - INFO - Successfully served home page 1
+2026-10-08 14:21:30,536 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 14:21:30] "GET / HTTP/1.1" 200 -
+2026-10-08 14:21:31,127 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:21:31,129 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:21:31,130 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 14:21:31,131 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:21:31,132 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:21:33,034 - api.utils.episode - INFO - Found 5 video sources
+2026-10-08 14:21:33,054 - api.utils.episode - INFO - Found 33 episodes
+2026-10-08 14:21:33,069 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-08 14:21:33,075 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-08 14:21:33,081 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:21:33,084 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 14:21:33] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-08 14:23:31,261 - __main__ - INFO - Home page request with page: None
+2026-10-08 14:23:31,262 - api - INFO - Getting home page for page: 1
+2026-10-08 14:23:31,264 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 14:23:31,265 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 14:23:31,943 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 14:23:31,974 - __main__ - INFO - Successfully served home page 1
+2026-10-08 14:23:31,976 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 14:23:31] "GET / HTTP/1.1" 200 -
+2026-10-08 14:32:35,528 - __main__ - INFO - Home page request with page: None
+2026-10-08 14:32:35,531 - api - INFO - Getting home page for page: 1
+2026-10-08 14:32:35,532 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 14:32:35,533 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 14:32:36,846 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 14:32:36,881 - __main__ - INFO - Successfully served home page 1
+2026-10-08 14:32:36,887 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 14:32:36] "GET / HTTP/1.1" 200 -
+2026-10-08 14:33:02,460 - __main__ - INFO - Home page request with page: None
+2026-10-08 14:33:02,461 - api - INFO - Getting home page for page: 1
+2026-10-08 14:33:02,461 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 14:33:02,462 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 14:33:03,028 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 14:33:03,058 - __main__ - INFO - Successfully served home page 1
+2026-10-08 14:33:03,061 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 14:33:03] "GET / HTTP/1.1" 200 -
+2026-10-08 14:33:04,775 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:33:04,775 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:33:04,776 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 14:33:04,777 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:33:04,778 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:33:06,711 - api.utils.episode - INFO - Found 5 video sources
+2026-10-08 14:33:06,734 - api.utils.episode - INFO - Found 33 episodes
+2026-10-08 14:33:06,758 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-08 14:33:06,772 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-08 14:33:06,790 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:33:06,808 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 14:33:06] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-08 14:33:35,820 - __main__ - INFO - Episode request for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-08 14:33:35,821 - api - INFO - Getting episode for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-08 14:33:35,822 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 14:33:35,823 - api.utils.episode - INFO - Initialized Episode scraper for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-08 14:33:35,823 - api.utils.episode - INFO - Starting to scrape episode data for slug: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-08 14:33:37,268 - api.utils.episode - INFO - Found 8 video sources
+2026-10-08 14:33:37,286 - api.utils.episode - INFO - Found 16 episodes
+2026-10-08 14:33:37,295 - api.utils.episode - INFO - Successfully processed 16 episodes
+2026-10-08 14:33:37,309 - api.utils.episode - INFO - Successfully scraped episode data for Return of The Immortal Emperor
+2026-10-08 14:33:37,316 - __main__ - INFO - Successfully served episode: return-of-the-immortal-emperor-episode-16-subtitle-indonesia
+2026-10-08 14:33:37,321 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 14:33:37] "GET /episode/return-of-the-immortal-emperor-episode-16-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-08 14:34:53,330 - __main__ - INFO - Search request for query: solo
+2026-10-08 14:34:53,330 - api - INFO - Searching for query: solo
+2026-10-08 14:34:53,331 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 14:34:53,332 - api.utils.search - INFO - Initialized Search for query: solo
+2026-10-08 14:34:53,332 - api.utils.search - INFO - Starting search for query: solo
+2026-10-08 14:34:54,396 - api.utils.search - INFO - Found 1 search results
+2026-10-08 14:34:54,398 - api.utils.search - INFO - Successfully processed 1 search results for query: solo
+2026-10-08 14:34:54,403 - __main__ - INFO - Successfully served search results for: solo
+2026-10-08 14:34:54,408 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 14:34:54] "GET /search/solo HTTP/1.1" 200 -
+2026-10-08 14:42:56,149 - __main__ - INFO - Home page request with page: None
+2026-10-08 14:42:56,149 - api - INFO - Getting home page for page: 1
+2026-10-08 14:42:56,149 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 14:42:56,150 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 14:42:57,041 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 14:42:57,073 - __main__ - INFO - Successfully served home page 1
+2026-10-08 14:42:57,074 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 14:42:57] "GET / HTTP/1.1" 200 -
+2026-10-08 14:42:57,800 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:42:57,800 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:42:57,801 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 14:42:57,802 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:42:57,802 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:42:59,400 - api.utils.episode - INFO - Found 5 video sources
+2026-10-08 14:42:59,420 - api.utils.episode - INFO - Found 33 episodes
+2026-10-08 14:42:59,435 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-08 14:42:59,446 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-08 14:42:59,454 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 14:42:59,457 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 14:42:59] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-08 15:00:21,819 - __main__ - INFO - Home page request with page: None
+2026-10-08 15:00:21,820 - api - INFO - Getting home page for page: 1
+2026-10-08 15:00:21,821 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 15:00:21,821 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 15:00:22,663 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 15:00:22,700 - __main__ - INFO - Successfully served home page 1
+2026-10-08 15:00:22,705 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 15:00:22] "GET / HTTP/1.1" 200 -
+2026-10-08 16:39:34,175 - api - INFO - Initialized Main API handler
+2026-10-08 16:39:34,180 - __main__ - INFO - Starting Anichin API server
+2026-10-08 16:39:34,294 - werkzeug - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.85:5000
+2026-10-08 16:39:34,294 - werkzeug - INFO - Press CTRL+C to quit
+2026-10-08 16:39:34,305 - werkzeug - INFO -  * Restarting with stat
+2026-10-08 16:39:35,120 - api - INFO - Initialized Main API handler
+2026-10-08 16:39:35,129 - __main__ - INFO - Starting Anichin API server
+2026-10-08 16:39:35,163 - werkzeug - WARNING -  * Debugger is active!
+2026-10-08 16:39:35,196 - werkzeug - INFO -  * Debugger PIN: 212-298-745
+2026-10-08 16:40:34,658 - __main__ - INFO - Home page request with page: None
+2026-10-08 16:40:34,659 - api - INFO - Getting home page for page: 1
+2026-10-08 16:40:34,662 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 16:40:34,663 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 16:40:40,546 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 16:40:40,566 - __main__ - INFO - Successfully served home page 1
+2026-10-08 16:40:40,574 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 16:40:40] "GET / HTTP/1.1" 200 -
+2026-10-08 16:40:43,811 - __main__ - INFO - Episode request for slug: swallowed-star-episode-244-subtitle-indonesia
+2026-10-08 16:40:43,811 - api - INFO - Getting episode for slug: swallowed-star-episode-244-subtitle-indonesia
+2026-10-08 16:40:43,812 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 16:40:43,813 - api.utils.episode - INFO - Initialized Episode scraper for slug: swallowed-star-episode-244-subtitle-indonesia
+2026-10-08 16:40:43,813 - api.utils.episode - INFO - Starting to scrape episode data for slug: swallowed-star-episode-244-subtitle-indonesia
+2026-10-08 16:40:46,113 - api.utils.episode - INFO - Found 8 video sources
+2026-10-08 16:40:46,130 - api.utils.episode - INFO - Found 244 episodes
+2026-10-08 16:40:46,201 - api.utils.episode - INFO - Successfully processed 244 episodes
+2026-10-08 16:40:46,203 - api.utils.episode - INFO - Successfully scraped episode data for Swallowed Star
+2026-10-08 16:40:46,205 - __main__ - INFO - Successfully served episode: swallowed-star-episode-244-subtitle-indonesia
+2026-10-08 16:40:46,207 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 16:40:46] "GET /episode/swallowed-star-episode-244-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-08 16:41:02,919 - __main__ - INFO - Episode request for slug: one-slash-to-the-heavens-episode-12-subtitle-indonesia
+2026-10-08 16:41:02,920 - api - INFO - Getting episode for slug: one-slash-to-the-heavens-episode-12-subtitle-indonesia
+2026-10-08 16:41:02,921 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 16:41:02,921 - api.utils.episode - INFO - Initialized Episode scraper for slug: one-slash-to-the-heavens-episode-12-subtitle-indonesia
+2026-10-08 16:41:02,922 - api.utils.episode - INFO - Starting to scrape episode data for slug: one-slash-to-the-heavens-episode-12-subtitle-indonesia
+2026-10-08 16:41:13,899 - __main__ - INFO - Episode request for slug: heaven-officials-blessing-season-2-episode-03-subtitle-indonesa
+2026-10-08 16:41:13,899 - api - INFO - Getting episode for slug: heaven-officials-blessing-season-2-episode-03-subtitle-indonesa
+2026-10-08 16:41:13,901 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 16:41:13,901 - api.utils.episode - INFO - Initialized Episode scraper for slug: heaven-officials-blessing-season-2-episode-03-subtitle-indonesa
+2026-10-08 16:41:13,902 - api.utils.episode - INFO - Starting to scrape episode data for slug: heaven-officials-blessing-season-2-episode-03-subtitle-indonesa
+2026-10-08 16:41:16,920 - api.utils.episode - INFO - Found 7 video sources
+2026-10-08 16:41:16,933 - api.utils.episode - INFO - Found 3 episodes
+2026-10-08 16:41:16,935 - api.utils.episode - INFO - Successfully processed 3 episodes
+2026-10-08 16:41:16,937 - api.utils.episode - INFO - Successfully scraped episode data for Heaven Official’s Blessing Season 2
+2026-10-08 16:41:16,941 - __main__ - INFO - Successfully served episode: heaven-officials-blessing-season-2-episode-03-subtitle-indonesa
+2026-10-08 16:41:16,972 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 16:41:16] "GET /episode/heaven-officials-blessing-season-2-episode-03-subtitle-indonesa HTTP/1.1" 200 -
+2026-10-08 16:42:18,527 - api.utils.episode - INFO - Found 8 video sources
+2026-10-08 16:42:18,537 - api.utils.episode - INFO - Found 12 episodes
+2026-10-08 16:42:18,543 - api.utils.episode - INFO - Successfully processed 12 episodes
+2026-10-08 16:42:18,546 - api.utils.episode - INFO - Successfully scraped episode data for One Slash to the Heavens
+2026-10-08 16:42:18,549 - __main__ - INFO - Successfully served episode: one-slash-to-the-heavens-episode-12-subtitle-indonesia
+2026-10-08 16:42:18,551 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 16:42:18] "GET /episode/one-slash-to-the-heavens-episode-12-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-08 16:59:58,230 - __main__ - INFO - Home page request with page: None
+2026-10-08 16:59:58,231 - api - INFO - Getting home page for page: 1
+2026-10-08 16:59:58,232 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 16:59:58,233 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 16:59:59,382 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 16:59:59,401 - __main__ - INFO - Successfully served home page 1
+2026-10-08 16:59:59,402 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 16:59:59] "GET / HTTP/1.1" 200 -
+2026-10-08 17:00:01,930 - __main__ - INFO - Episode request for slug: the-eternal-supreme-li-yunxiao-episode-25-subtitle-indonesia
+2026-10-08 17:00:01,931 - api - INFO - Getting episode for slug: the-eternal-supreme-li-yunxiao-episode-25-subtitle-indonesia
+2026-10-08 17:00:01,932 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 17:00:01,932 - api.utils.episode - INFO - Initialized Episode scraper for slug: the-eternal-supreme-li-yunxiao-episode-25-subtitle-indonesia
+2026-10-08 17:00:01,933 - api.utils.episode - INFO - Starting to scrape episode data for slug: the-eternal-supreme-li-yunxiao-episode-25-subtitle-indonesia
+2026-10-08 17:00:04,505 - api.utils.episode - INFO - Found 9 video sources
+2026-10-08 17:00:04,516 - api.utils.episode - INFO - Found 25 episodes
+2026-10-08 17:00:04,521 - api.utils.episode - INFO - Successfully processed 25 episodes
+2026-10-08 17:00:04,523 - api.utils.episode - INFO - Successfully scraped episode data for The Eternal Supreme: Li Yunxiao
+2026-10-08 17:00:04,525 - __main__ - INFO - Successfully served episode: the-eternal-supreme-li-yunxiao-episode-25-subtitle-indonesia
+2026-10-08 17:00:04,527 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 17:00:04] "GET /episode/the-eternal-supreme-li-yunxiao-episode-25-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-08 17:15:36,327 - __main__ - INFO - Home page request with page: None
+2026-10-08 17:15:36,328 - api - INFO - Getting home page for page: 1
+2026-10-08 17:15:36,329 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 17:15:36,330 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 17:15:37,513 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 17:15:37,526 - __main__ - INFO - Successfully served home page 1
+2026-10-08 17:15:37,528 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 17:15:37] "GET / HTTP/1.1" 200 -
+2026-10-08 17:16:53,150 - __main__ - INFO - Search request for query: brand new day
+2026-10-08 17:16:53,151 - api - INFO - Searching for query: brand new day
+2026-10-08 17:16:53,152 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 17:16:53,152 - api.utils.search - INFO - Initialized Search for query: brand new day
+2026-10-08 17:16:53,153 - api.utils.search - INFO - Starting search for query: brand new day
+2026-10-08 17:16:54,126 - api.utils.search - INFO - Found 0 search results
+2026-10-08 17:16:54,126 - api.utils.search - INFO - Successfully processed 0 search results for query: brand new day
+2026-10-08 17:16:54,129 - __main__ - INFO - Successfully served search results for: brand new day
+2026-10-08 17:16:54,130 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 17:16:54] "GET /search/brand%20new%20day HTTP/1.1" 200 -
+2026-10-08 17:17:01,100 - __main__ - INFO - Search request for query: spiderman
+2026-10-08 17:17:01,100 - api - INFO - Searching for query: spiderman
+2026-10-08 17:17:01,100 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 17:17:01,101 - api.utils.search - INFO - Initialized Search for query: spiderman
+2026-10-08 17:17:01,101 - api.utils.search - INFO - Starting search for query: spiderman
+2026-10-08 17:17:04,088 - api.utils.search - INFO - Found 0 search results
+2026-10-08 17:17:04,088 - api.utils.search - INFO - Successfully processed 0 search results for query: spiderman
+2026-10-08 17:17:04,091 - __main__ - INFO - Successfully served search results for: spiderman
+2026-10-08 17:17:04,092 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 17:17:04] "GET /search/spiderman HTTP/1.1" 200 -
+2026-10-08 17:17:28,545 - __main__ - INFO - Search request for query: mushoku
+2026-10-08 17:17:28,548 - api - INFO - Searching for query: mushoku
+2026-10-08 17:17:28,549 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 17:17:28,549 - api.utils.search - INFO - Initialized Search for query: mushoku
+2026-10-08 17:17:28,550 - api.utils.search - INFO - Starting search for query: mushoku
+2026-10-08 17:17:31,712 - api.utils.search - INFO - Found 0 search results
+2026-10-08 17:17:31,712 - api.utils.search - INFO - Successfully processed 0 search results for query: mushoku
+2026-10-08 17:17:31,716 - __main__ - INFO - Successfully served search results for: mushoku
+2026-10-08 17:17:31,717 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 17:17:31] "GET /search/mushoku HTTP/1.1" 200 -
+2026-10-08 17:17:36,219 - __main__ - INFO - Home page request with page: None
+2026-10-08 17:17:36,219 - api - INFO - Getting home page for page: 1
+2026-10-08 17:17:36,220 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 17:17:36,221 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 17:17:36,912 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 17:17:36,927 - __main__ - INFO - Successfully served home page 1
+2026-10-08 17:17:36,928 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 17:17:36] "GET / HTTP/1.1" 200 -
+2026-10-08 17:17:46,318 - __main__ - INFO - Search request for query: heaven swallowing
+2026-10-08 17:17:46,318 - api - INFO - Searching for query: heaven swallowing
+2026-10-08 17:17:46,319 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 17:17:46,319 - api.utils.search - INFO - Initialized Search for query: heaven swallowing
+2026-10-08 17:17:46,320 - api.utils.search - INFO - Starting search for query: heaven swallowing
+2026-10-08 17:17:49,820 - api.utils.search - INFO - Found 1 search results
+2026-10-08 17:17:49,820 - api.utils.search - INFO - Successfully processed 1 search results for query: heaven swallowing
+2026-10-08 17:17:49,824 - __main__ - INFO - Successfully served search results for: heaven swallowing
+2026-10-08 17:17:49,825 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 17:17:49] "GET /search/heaven%20swallowing HTTP/1.1" 200 -
+2026-10-08 17:17:55,632 - __main__ - INFO - Home page request with page: None
+2026-10-08 17:17:55,633 - api - INFO - Getting home page for page: 1
+2026-10-08 17:17:55,634 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 17:17:55,635 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 17:17:56,260 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 17:17:56,274 - __main__ - INFO - Successfully served home page 1
+2026-10-08 17:17:56,276 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 17:17:56] "GET / HTTP/1.1" 200 -
+2026-10-08 17:20:38,347 - __main__ - INFO - Search request for query: yosuga
+2026-10-08 17:20:38,347 - api - INFO - Searching for query: yosuga
+2026-10-08 17:20:38,348 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 17:20:38,349 - api.utils.search - INFO - Initialized Search for query: yosuga
+2026-10-08 17:20:38,349 - api.utils.search - INFO - Starting search for query: yosuga
+2026-10-08 17:20:42,042 - api.utils.search - INFO - Found 0 search results
+2026-10-08 17:20:42,042 - api.utils.search - INFO - Successfully processed 0 search results for query: yosuga
+2026-10-08 17:20:42,045 - __main__ - INFO - Successfully served search results for: yosuga
+2026-10-08 17:20:42,046 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 17:20:42] "GET /search/yosuga HTTP/1.1" 200 -
+2026-10-08 17:20:53,506 - __main__ - INFO - Search request for query: spiderman
+2026-10-08 17:20:53,507 - api - INFO - Searching for query: spiderman
+2026-10-08 17:20:53,508 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 17:20:53,508 - api.utils.search - INFO - Initialized Search for query: spiderman
+2026-10-08 17:20:53,510 - api.utils.search - INFO - Starting search for query: spiderman
+2026-10-08 17:20:55,066 - api.utils.search - INFO - Found 0 search results
+2026-10-08 17:20:55,067 - api.utils.search - INFO - Successfully processed 0 search results for query: spiderman
+2026-10-08 17:20:55,069 - __main__ - INFO - Successfully served search results for: spiderman
+2026-10-08 17:20:55,070 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 17:20:55] "GET /search/spiderman HTTP/1.1" 200 -
+2026-10-08 17:21:06,203 - __main__ - INFO - Search request for query: spiderman
+2026-10-08 17:21:06,203 - api - INFO - Searching for query: spiderman
+2026-10-08 17:21:06,204 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 17:21:06,204 - api.utils.search - INFO - Initialized Search for query: spiderman
+2026-10-08 17:21:06,204 - api.utils.search - INFO - Starting search for query: spiderman
+2026-10-08 17:21:06,715 - api.utils.search - INFO - Found 0 search results
+2026-10-08 17:21:06,715 - api.utils.search - INFO - Successfully processed 0 search results for query: spiderman
+2026-10-08 17:21:06,718 - __main__ - INFO - Successfully served search results for: spiderman
+2026-10-08 17:21:06,719 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 17:21:06] "GET /search/spiderman HTTP/1.1" 200 -
+2026-10-08 17:22:39,825 - __main__ - INFO - Search request for query: brand
+2026-10-08 17:22:39,826 - api - INFO - Searching for query: brand
+2026-10-08 17:22:39,827 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 17:22:39,827 - api.utils.search - INFO - Initialized Search for query: brand
+2026-10-08 17:22:39,828 - api.utils.search - INFO - Starting search for query: brand
+2026-10-08 17:22:46,961 - api.utils.search - INFO - Found 1 search results
+2026-10-08 17:22:46,962 - api.utils.search - INFO - Successfully processed 1 search results for query: brand
+2026-10-08 17:22:46,966 - __main__ - INFO - Successfully served search results for: brand
+2026-10-08 17:22:46,967 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 17:22:46] "GET /search/brand HTTP/1.1" 200 -
+2026-10-08 17:25:33,789 - __main__ - INFO - Home page request with page: None
+2026-10-08 17:25:33,791 - api - INFO - Getting home page for page: 1
+2026-10-08 17:25:33,795 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 17:25:33,796 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 17:25:35,135 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 17:25:35,154 - __main__ - INFO - Successfully served home page 1
+2026-10-08 17:25:35,155 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 17:25:35] "GET / HTTP/1.1" 200 -
+2026-10-08 17:25:44,195 - __main__ - INFO - Search request for query: brand
+2026-10-08 17:25:44,196 - api - INFO - Searching for query: brand
+2026-10-08 17:25:44,196 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 17:25:44,196 - api.utils.search - INFO - Initialized Search for query: brand
+2026-10-08 17:25:44,197 - api.utils.search - INFO - Starting search for query: brand
+2026-10-08 17:25:44,960 - api.utils.search - INFO - Found 1 search results
+2026-10-08 17:25:44,961 - api.utils.search - INFO - Successfully processed 1 search results for query: brand
+2026-10-08 17:25:44,963 - __main__ - INFO - Successfully served search results for: brand
+2026-10-08 17:25:44,964 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 17:25:44] "GET /search/brand HTTP/1.1" 200 -
+2026-10-08 17:27:06,701 - __main__ - INFO - Search request for query: brand
+2026-10-08 17:27:06,702 - api - INFO - Searching for query: brand
+2026-10-08 17:27:06,702 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 17:27:06,703 - api.utils.search - INFO - Initialized Search for query: brand
+2026-10-08 17:27:06,703 - api.utils.search - INFO - Starting search for query: brand
+2026-10-08 17:27:12,187 - api.utils.search - INFO - Found 1 search results
+2026-10-08 17:27:12,188 - api.utils.search - INFO - Successfully processed 1 search results for query: brand
+2026-10-08 17:27:12,191 - __main__ - INFO - Successfully served search results for: brand
+2026-10-08 17:27:12,191 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 17:27:12] "GET /search/brand HTTP/1.1" 200 -
+2026-10-08 17:30:23,101 - __main__ - INFO - Search request for query: brand
+2026-10-08 17:30:23,105 - api - INFO - Searching for query: brand
+2026-10-08 17:30:23,106 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 17:30:23,107 - api.utils.search - INFO - Initialized Search for query: brand
+2026-10-08 17:30:23,107 - api.utils.search - INFO - Starting search for query: brand
+2026-10-08 17:30:24,836 - api.utils.search - INFO - Found 1 search results
+2026-10-08 17:30:24,837 - api.utils.search - INFO - Successfully processed 1 search results for query: brand
+2026-10-08 17:30:24,840 - __main__ - INFO - Successfully served search results for: brand
+2026-10-08 17:30:24,841 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 17:30:24] "GET /search/brand HTTP/1.1" 200 -
+2026-10-08 17:36:35,568 - __main__ - INFO - Home page request with page: None
+2026-10-08 17:36:35,569 - api - INFO - Getting home page for page: 1
+2026-10-08 17:36:35,570 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 17:36:35,571 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 17:36:36,810 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 17:36:36,847 - __main__ - INFO - Successfully served home page 1
+2026-10-08 17:36:36,850 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 17:36:36] "GET / HTTP/1.1" 200 -
+2026-10-08 17:39:26,330 - __main__ - INFO - Home page request with page: None
+2026-10-08 17:39:26,330 - api - INFO - Getting home page for page: 1
+2026-10-08 17:39:26,331 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 17:39:26,332 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-08 17:39:27,415 - api.utils.home - INFO - Found 55 raw items in home page
+2026-10-08 17:39:27,449 - __main__ - INFO - Successfully served home page 1
+2026-10-08 17:39:27,457 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 17:39:27] "GET / HTTP/1.1" 200 -
+2026-10-08 17:39:29,286 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 17:39:29,287 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 17:39:29,288 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-08 17:39:29,288 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 17:39:29,289 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 17:39:31,168 - api.utils.episode - INFO - Found 5 video sources
+2026-10-08 17:39:31,186 - api.utils.episode - INFO - Found 33 episodes
+2026-10-08 17:39:31,210 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-08 17:39:31,214 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-08 17:39:31,218 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-08 17:39:31,222 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2026 17:39:31] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-10 07:22:29,726 - api - INFO - Initialized Main API handler
+2026-10-10 07:22:29,732 - __main__ - INFO - Starting Anichin API server
+2026-10-10 07:22:29,856 - werkzeug - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2026-10-10 07:22:29,856 - werkzeug - INFO - Press CTRL+C to quit
+2026-10-10 07:22:29,861 - werkzeug - INFO -  * Restarting with stat
+2026-10-10 07:22:30,659 - api - INFO - Initialized Main API handler
+2026-10-10 07:22:30,664 - __main__ - INFO - Starting Anichin API server
+2026-10-10 07:22:30,693 - werkzeug - WARNING -  * Debugger is active!
+2026-10-10 07:22:30,725 - werkzeug - INFO -  * Debugger PIN: 199-509-625
+2026-10-10 07:23:49,419 - __main__ - INFO - Home page request with page: None
+2026-10-10 07:23:49,420 - api - INFO - Getting home page for page: 1
+2026-10-10 07:23:49,421 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-10 07:23:49,422 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-10 07:23:50,284 - api.utils.home - INFO - Found 50 raw items in home page
+2026-10-10 07:23:50,326 - __main__ - INFO - Successfully served home page 1
+2026-10-10 07:23:50,329 - werkzeug - INFO - 127.0.0.1 - - [10/Oct/2026 07:23:50] "GET / HTTP/1.1" 200 -
+2026-10-10 07:24:38,272 - __main__ - INFO - Search request for query: solo
+2026-10-10 07:24:38,272 - api - INFO - Searching for query: solo
+2026-10-10 07:24:38,273 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-10 07:24:38,273 - api.utils.search - INFO - Initialized Search for query: solo
+2026-10-10 07:24:38,274 - api.utils.search - INFO - Starting search for query: solo
+2026-10-10 07:24:39,748 - api.utils.search - INFO - Found 1 search results
+2026-10-10 07:24:39,749 - api.utils.search - INFO - Successfully processed 1 search results for query: solo
+2026-10-10 07:24:39,751 - __main__ - INFO - Successfully served search results for: solo
+2026-10-10 07:24:39,751 - werkzeug - INFO - 127.0.0.1 - - [10/Oct/2026 07:24:39] "GET /search/solo HTTP/1.1" 200 -
+2026-10-10 07:32:19,116 - __main__ - INFO - Search request for query: solo
+2026-10-10 07:32:19,116 - api - INFO - Searching for query: solo
+2026-10-10 07:32:19,118 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-10 07:32:19,118 - api.utils.search - INFO - Initialized Search for query: solo
+2026-10-10 07:32:19,119 - api.utils.search - INFO - Starting search for query: solo
+2026-10-10 07:32:19,813 - api.utils.search - INFO - Found 1 search results
+2026-10-10 07:32:19,815 - api.utils.search - INFO - Successfully processed 1 search results for query: solo
+2026-10-10 07:32:19,819 - __main__ - INFO - Successfully served search results for: solo
+2026-10-10 07:32:19,820 - werkzeug - INFO - 127.0.0.1 - - [10/Oct/2026 07:32:19] "GET /search/solo HTTP/1.1" 200 -
+2026-10-10 07:34:11,324 - __main__ - INFO - Search request for query: solo
+2026-10-10 07:34:11,324 - api - INFO - Searching for query: solo
+2026-10-10 07:34:11,325 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-10 07:34:11,326 - api.utils.search - INFO - Initialized Search for query: solo
+2026-10-10 07:34:11,326 - api.utils.search - INFO - Starting search for query: solo
+2026-10-10 07:34:12,043 - api.utils.search - INFO - Found 1 search results
+2026-10-10 07:34:12,043 - api.utils.search - INFO - Successfully processed 1 search results for query: solo
+2026-10-10 07:34:12,046 - __main__ - INFO - Successfully served search results for: solo
+2026-10-10 07:34:12,047 - werkzeug - INFO - 127.0.0.1 - - [10/Oct/2026 07:34:12] "GET /search/solo HTTP/1.1" 200 -
+2026-10-10 07:36:33,335 - __main__ - INFO - Search request for query: solo
+2026-10-10 07:36:33,341 - api - INFO - Searching for query: solo
+2026-10-10 07:36:33,353 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-10 07:36:33,359 - api.utils.search - INFO - Initialized Search for query: solo
+2026-10-10 07:36:33,363 - api.utils.search - INFO - Starting search for query: solo
+2026-10-10 07:36:33,856 - api.utils.search - INFO - Found 1 search results
+2026-10-10 07:36:33,857 - api.utils.search - INFO - Successfully processed 1 search results for query: solo
+2026-10-10 07:36:33,860 - __main__ - INFO - Successfully served search results for: solo
+2026-10-10 07:36:33,860 - werkzeug - INFO - 127.0.0.1 - - [10/Oct/2026 07:36:33] "GET /search/solo HTTP/1.1" 200 -
+2026-10-10 07:46:20,674 - __main__ - INFO - Home page request with page: None
+2026-10-10 07:46:20,675 - api - INFO - Getting home page for page: 1
+2026-10-10 07:46:20,676 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-10 07:46:20,676 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-10 07:46:21,202 - api.utils.home - INFO - Found 50 raw items in home page
+2026-10-10 07:46:21,214 - __main__ - INFO - Successfully served home page 1
+2026-10-10 07:46:21,221 - werkzeug - INFO - 127.0.0.1 - - [10/Oct/2026 07:46:21] "GET / HTTP/1.1" 200 -
+2026-10-10 07:46:22,128 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-10 07:46:22,128 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-10 07:46:22,129 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-10 07:46:22,130 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-10 07:46:22,131 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-10 07:46:23,495 - api.utils.episode - INFO - Found 5 video sources
+2026-10-10 07:46:23,509 - api.utils.episode - INFO - Found 33 episodes
+2026-10-10 07:46:23,553 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-10 07:46:23,555 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-10 07:46:23,559 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-10 07:46:23,561 - werkzeug - INFO - 127.0.0.1 - - [10/Oct/2026 07:46:23] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-10 07:46:38,749 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-10 07:46:38,749 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-10 07:46:38,750 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-10 07:46:38,751 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-10 07:46:38,751 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-10 07:46:40,189 - api.utils.episode - INFO - Found 5 video sources
+2026-10-10 07:46:40,210 - api.utils.episode - INFO - Found 33 episodes
+2026-10-10 07:46:40,226 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-10 07:46:40,228 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-10 07:46:40,231 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-10 07:46:40,233 - werkzeug - INFO - 127.0.0.1 - - [10/Oct/2026 07:46:40] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
+2026-10-10 07:46:46,765 - __main__ - INFO - Search request for query: solo
+2026-10-10 07:46:46,766 - api - INFO - Searching for query: solo
+2026-10-10 07:46:46,767 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-10 07:46:46,769 - api.utils.search - INFO - Initialized Search for query: solo
+2026-10-10 07:46:46,769 - api.utils.search - INFO - Starting search for query: solo
+2026-10-10 07:46:47,096 - api.utils.search - INFO - Found 1 search results
+2026-10-10 07:46:47,097 - api.utils.search - INFO - Successfully processed 1 search results for query: solo
+2026-10-10 07:46:47,099 - __main__ - INFO - Successfully served search results for: solo
+2026-10-10 07:46:47,100 - werkzeug - INFO - 127.0.0.1 - - [10/Oct/2026 07:46:47] "GET /search/solo HTTP/1.1" 200 -
+2026-10-10 07:52:40,718 - __main__ - INFO - Search request for query: solo
+2026-10-10 07:52:40,719 - api - INFO - Searching for query: solo
+2026-10-10 07:52:40,719 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-10 07:52:40,719 - api.utils.search - INFO - Initialized Search for query: solo
+2026-10-10 07:52:40,720 - api.utils.search - INFO - Starting search for query: solo
+2026-10-10 07:52:41,277 - api.utils.search - INFO - Found 1 search results
+2026-10-10 07:52:41,277 - api.utils.search - INFO - Successfully processed 1 search results for query: solo
+2026-10-10 07:52:41,280 - __main__ - INFO - Successfully served search results for: solo
+2026-10-10 07:52:41,281 - werkzeug - INFO - 127.0.0.1 - - [10/Oct/2026 07:52:41] "GET /search/solo HTTP/1.1" 200 -
+2026-10-10 07:53:03,924 - __main__ - INFO - Search request for query: solo
+2026-10-10 07:53:03,925 - api - INFO - Searching for query: solo
+2026-10-10 07:53:03,925 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-10 07:53:03,925 - api.utils.search - INFO - Initialized Search for query: solo
+2026-10-10 07:53:03,925 - api.utils.search - INFO - Starting search for query: solo
+2026-10-10 07:53:04,292 - api.utils.search - INFO - Found 1 search results
+2026-10-10 07:53:04,293 - api.utils.search - INFO - Successfully processed 1 search results for query: solo
+2026-10-10 07:53:04,296 - __main__ - INFO - Successfully served search results for: solo
+2026-10-10 07:53:04,297 - werkzeug - INFO - 127.0.0.1 - - [10/Oct/2026 07:53:04] "GET /search/solo HTTP/1.1" 200 -
+2026-10-10 07:55:00,313 - __main__ - INFO - Search request for query: solo
+2026-10-10 07:55:00,314 - api - INFO - Searching for query: solo
+2026-10-10 07:55:00,315 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-10 07:55:00,316 - api.utils.search - INFO - Initialized Search for query: solo
+2026-10-10 07:55:00,317 - api.utils.search - INFO - Starting search for query: solo
+2026-10-10 07:55:00,736 - api.utils.search - INFO - Found 1 search results
+2026-10-10 07:55:00,739 - api.utils.search - INFO - Successfully processed 1 search results for query: solo
+2026-10-10 07:55:00,743 - __main__ - INFO - Successfully served search results for: solo
+2026-10-10 07:55:00,748 - werkzeug - INFO - 127.0.0.1 - - [10/Oct/2026 07:55:00] "GET /search/solo HTTP/1.1" 200 -
+2026-10-10 08:00:20,090 - __main__ - INFO - Search request for query: solo
+2026-10-10 08:00:20,095 - api - INFO - Searching for query: solo
+2026-10-10 08:00:20,102 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-10 08:00:20,116 - api.utils.search - INFO - Initialized Search for query: solo
+2026-10-10 08:00:20,145 - api.utils.search - INFO - Starting search for query: solo
+2026-10-10 08:00:20,909 - api.utils.search - INFO - Found 1 search results
+2026-10-10 08:00:20,912 - api.utils.search - INFO - Successfully processed 1 search results for query: solo
+2026-10-10 08:00:20,917 - __main__ - INFO - Successfully served search results for: solo
+2026-10-10 08:00:20,919 - werkzeug - INFO - 127.0.0.1 - - [10/Oct/2026 08:00:20] "GET /search/solo HTTP/1.1" 200 -
+2026-10-10 08:00:30,197 - __main__ - INFO - Search request for query: solo
+2026-10-10 08:00:30,199 - api - INFO - Searching for query: solo
+2026-10-10 08:00:30,200 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-10 08:00:30,201 - api.utils.search - INFO - Initialized Search for query: solo
+2026-10-10 08:00:30,201 - api.utils.search - INFO - Starting search for query: solo
+2026-10-10 08:00:30,625 - api.utils.search - INFO - Found 1 search results
+2026-10-10 08:00:30,627 - api.utils.search - INFO - Successfully processed 1 search results for query: solo
+2026-10-10 08:00:30,631 - __main__ - INFO - Successfully served search results for: solo
+2026-10-10 08:00:30,639 - werkzeug - INFO - 127.0.0.1 - - [10/Oct/2026 08:00:30] "GET /search/solo HTTP/1.1" 200 -
+2026-10-10 08:00:41,017 - __main__ - INFO - Search request for query: solo
+2026-10-10 08:00:41,018 - api - INFO - Searching for query: solo
+2026-10-10 08:00:41,019 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-10 08:00:41,020 - api.utils.search - INFO - Initialized Search for query: solo
+2026-10-10 08:00:41,021 - api.utils.search - INFO - Starting search for query: solo
+2026-10-10 08:00:41,494 - api.utils.search - INFO - Found 1 search results
+2026-10-10 08:00:41,495 - api.utils.search - INFO - Successfully processed 1 search results for query: solo
+2026-10-10 08:00:41,498 - __main__ - INFO - Successfully served search results for: solo
+2026-10-10 08:00:41,500 - werkzeug - INFO - 127.0.0.1 - - [10/Oct/2026 08:00:41] "GET /search/solo HTTP/1.1" 200 -
+2026-10-10 08:05:08,396 - __main__ - INFO - Home page request with page: None
+2026-10-10 08:05:08,396 - api - INFO - Getting home page for page: 1
+2026-10-10 08:05:08,397 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-10 08:05:08,397 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-10 08:05:09,054 - api.utils.home - INFO - Found 50 raw items in home page
+2026-10-10 08:05:09,081 - __main__ - INFO - Successfully served home page 1
+2026-10-10 08:05:09,086 - werkzeug - INFO - 127.0.0.1 - - [10/Oct/2026 08:05:09] "GET / HTTP/1.1" 200 -
+2026-10-11 00:55:26,445 - api - INFO - Initialized Main API handler
+2026-10-11 00:55:26,447 - __main__ - INFO - Starting Anichin API server
+2026-10-11 00:55:26,512 - werkzeug - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2026-10-11 00:55:26,512 - werkzeug - INFO - Press CTRL+C to quit
+2026-10-11 00:55:26,515 - werkzeug - INFO -  * Restarting with stat
+2026-10-11 00:55:26,823 - api - INFO - Initialized Main API handler
+2026-10-11 00:55:26,825 - __main__ - INFO - Starting Anichin API server
+2026-10-11 00:55:26,837 - werkzeug - WARNING -  * Debugger is active!
+2026-10-11 00:55:26,841 - werkzeug - INFO -  * Debugger PIN: 502-883-206
+2026-10-11 00:56:39,691 - __main__ - INFO - Home page request with page: None
+2026-10-11 00:56:39,692 - api - INFO - Getting home page for page: 1
+2026-10-11 00:56:39,692 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-11 00:56:39,692 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-11 00:56:39,994 - api.utils.home - INFO - Found 50 raw items in home page
+2026-10-11 00:56:40,003 - __main__ - INFO - Successfully served home page 1
+2026-10-11 00:56:40,004 - werkzeug - INFO - 127.0.0.1 - - [11/Oct/2026 00:56:40] "GET / HTTP/1.1" 200 -
+2026-10-11 00:59:46,944 - __main__ - INFO - Search request for query: otaku yasashi
+2026-10-11 00:59:46,944 - api - INFO - Searching for query: otaku yasashi
+2026-10-11 00:59:46,944 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-11 00:59:46,944 - api.utils.search - INFO - Initialized Search for query: otaku yasashi
+2026-10-11 00:59:46,945 - api.utils.search - INFO - Starting search for query: otaku yasashi
+2026-10-11 00:59:49,863 - api.utils.search - INFO - Found 0 search results
+2026-10-11 00:59:49,863 - api.utils.search - INFO - Successfully processed 0 search results for query: otaku yasashi
+2026-10-11 00:59:49,864 - __main__ - INFO - Successfully served search results for: otaku yasashi
+2026-10-11 00:59:49,865 - werkzeug - INFO - 127.0.0.1 - - [11/Oct/2026 00:59:49] "GET /search/otaku%20yasashi HTTP/1.1" 200 -
+2026-10-11 01:00:02,684 - __main__ - INFO - Search request for query: otaku yasashi
+2026-10-11 01:00:02,684 - api - INFO - Searching for query: otaku yasashi
+2026-10-11 01:00:02,684 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-11 01:00:02,684 - api.utils.search - INFO - Initialized Search for query: otaku yasashi
+2026-10-11 01:00:02,685 - api.utils.search - INFO - Starting search for query: otaku yasashi
+2026-10-11 01:00:02,860 - api.utils.search - INFO - Found 0 search results
+2026-10-11 01:00:02,860 - api.utils.search - INFO - Successfully processed 0 search results for query: otaku yasashi
+2026-10-11 01:00:02,865 - __main__ - INFO - Successfully served search results for: otaku yasashi
+2026-10-11 01:00:02,866 - werkzeug - INFO - 127.0.0.1 - - [11/Oct/2026 01:00:02] "GET /search/otaku%20yasashi HTTP/1.1" 200 -
+2026-10-11 01:10:09,413 - __main__ - INFO - Home page request with page: None
+2026-10-11 01:10:09,414 - api - INFO - Getting home page for page: 1
+2026-10-11 01:10:09,414 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-11 01:10:09,414 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-11 01:10:09,908 - api.utils.home - INFO - Found 50 raw items in home page
+2026-10-11 01:10:09,913 - __main__ - INFO - Successfully served home page 1
+2026-10-11 01:10:09,914 - werkzeug - INFO - 127.0.0.1 - - [11/Oct/2026 01:10:09] "GET / HTTP/1.1" 200 -
+2026-10-11 01:11:13,335 - __main__ - INFO - Search request for query: yasashi gal
+2026-10-11 01:11:13,335 - api - INFO - Searching for query: yasashi gal
+2026-10-11 01:11:13,335 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-11 01:11:13,336 - api.utils.search - INFO - Initialized Search for query: yasashi gal
+2026-10-11 01:11:13,336 - api.utils.search - INFO - Starting search for query: yasashi gal
+2026-10-11 01:11:15,993 - api.utils.search - INFO - Found 0 search results
+2026-10-11 01:11:15,993 - api.utils.search - INFO - Successfully processed 0 search results for query: yasashi gal
+2026-10-11 01:11:15,995 - __main__ - INFO - Successfully served search results for: yasashi gal
+2026-10-11 01:11:15,995 - werkzeug - INFO - 127.0.0.1 - - [11/Oct/2026 01:11:15] "GET /search/yasashi%20gal HTTP/1.1" 200 -
+2026-10-11 01:14:25,249 - __main__ - INFO - Home page request with page: None
+2026-10-11 01:14:25,249 - api - INFO - Getting home page for page: 1
+2026-10-11 01:14:25,249 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-11 01:14:25,249 - api.utils.home - INFO - Initialized Home scraper for page: 1
+2026-10-11 01:14:25,512 - api.utils.home - INFO - Found 50 raw items in home page
+2026-10-11 01:14:25,517 - __main__ - INFO - Successfully served home page 1
+2026-10-11 01:14:25,517 - werkzeug - INFO - 127.0.0.1 - - [11/Oct/2026 01:14:25] "GET / HTTP/1.1" 200 -
+2026-10-11 01:14:29,021 - __main__ - INFO - Episode request for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-11 01:14:29,021 - api - INFO - Getting episode for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-11 01:14:29,021 - api.utils.parsing - INFO - Initialized Parsing session with URL: https://anichin.moe
+2026-10-11 01:14:29,021 - api.utils.episode - INFO - Initialized Episode scraper for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-11 01:14:29,021 - api.utils.episode - INFO - Starting to scrape episode data for slug: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-11 01:14:30,093 - api.utils.episode - INFO - Found 5 video sources
+2026-10-11 01:14:30,098 - api.utils.episode - INFO - Found 33 episodes
+2026-10-11 01:14:30,104 - api.utils.episode - INFO - Successfully processed 33 episodes
+2026-10-11 01:14:30,104 - api.utils.episode - INFO - Successfully scraped episode data for Keyboard Immortal
+2026-10-11 01:14:30,106 - __main__ - INFO - Successfully served episode: keyboard-immortal-episode-33-subtitle-indonesia
+2026-10-11 01:14:30,107 - werkzeug - INFO - 127.0.0.1 - - [11/Oct/2026 01:14:30] "GET /episode/keyboard-immortal-episode-33-subtitle-indonesia HTTP/1.1" 200 -
